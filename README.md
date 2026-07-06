@@ -25,7 +25,7 @@
 
 | Home & daily tasks | DSA Sheet | Revision |
 | :--: | :--: | :--: |
-| ![Home screen — daily tasks, streak, and progress](placement_os/docs/assets/screenshots) | ![DSA Sheet — topics, filters, solved status](docs/assets/screenshots/dsa_sheet.jpeg) | ![Revision — sequential revision queue](docs/assets/screenshots/revision.jpeg) |
+| ![Home screen — daily tasks, streak, and progress](placement_os/docs/assets/screenshots/home.jpeg) | ![DSA Sheet — topics, filters, solved status](docs/assets/screenshots/dsa_sheet.jpeg) | ![Revision — sequential revision queue](docs/assets/screenshots/revision.jpeg) |
 
 | Notes | Patterns | Dry Run |
 | :--: | :--: | :--: |
