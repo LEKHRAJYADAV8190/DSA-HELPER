@@ -1,0 +1,6469 @@
+{
+  "version": 1,
+  "source": "https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z",
+  "totalQuestions": 474,
+  "topics": [
+    {
+      "id": "learn-the-basics",
+      "name": "Learn the basics",
+      "order": 1,
+      "problemIds": [
+        "p425",
+        "p1211",
+        "p424",
+        "p429",
+        "p2869",
+        "p2867",
+        "p2868",
+        "p2866",
+        "p1219",
+        "p1216",
+        "p1205",
+        "p401",
+        "p412",
+        "p416",
+        "p417",
+        "p418",
+        "p419",
+        "p420",
+        "p421",
+        "p422",
+        "p402",
+        "p403",
+        "p404",
+        "p405",
+        "p406",
+        "p407",
+        "p408",
+        "p409",
+        "p410",
+        "p411",
+        "p413",
+        "p414",
+        "p415",
+        "p1218",
+        "p1217",
+        "p367",
+        "p376",
+        "p374",
+        "p372",
+        "p366",
+        "p2807",
+        "p365",
+        "p2401",
+        "p2405",
+        "p850",
+        "p852",
+        "p386",
+        "p371",
+        "p342",
+        "p378",
+        "p381",
+        "p1203",
+        "p252",
+        "p344"
+      ]
+    },
+    {
+      "id": "learn-important-sorting-techniques",
+      "name": "Learn Important Sorting Techniques",
+      "order": 2,
+      "problemIds": [
+        "p947",
+        "p943",
+        "p944",
+        "p945",
+        "p881",
+        "p882",
+        "p946"
+      ]
+    },
+    {
+      "id": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Solve Problems on Arrays [Easy -> Medium -> Hard]",
+      "order": 3,
+      "problemIds": [
+        "p38",
+        "p43",
+        "p379",
+        "p2764",
+        "p40",
+        "p39",
+        "p46",
+        "p41",
+        "p48",
+        "p44",
+        "p42",
+        "p2793",
+        "p2836",
+        "p564",
+        "p37",
+        "p2762",
+        "p22",
+        "p29",
+        "p2761",
+        "p2798",
+        "p34",
+        "p31",
+        "p30",
+        "p2835",
+        "p911",
+        "p35",
+        "p33",
+        "p561",
+        "p813",
+        "p23",
+        "p27",
+        "p28",
+        "p605",
+        "p562",
+        "p715",
+        "p25",
+        "p21",
+        "p20",
+        "p26",
+        "p24"
+      ]
+    },
+    {
+      "id": "binary-search-1d-2d-arrays-search-space",
+      "name": "Binary Search [1D, 2D Arrays, Search Space]",
+      "order": 4,
+      "problemIds": [
+        "p81",
+        "p80",
+        "p82",
+        "p89",
+        "p86",
+        "p85",
+        "p229",
+        "p87",
+        "p88",
+        "p83",
+        "p84",
+        "p2770",
+        "p75",
+        "p92",
+        "p91",
+        "p94",
+        "p95",
+        "p93",
+        "p161",
+        "p600",
+        "p73",
+        "p74",
+        "p79",
+        "p805",
+        "p78",
+        "p77",
+        "p2767",
+        "p66",
+        "p69",
+        "p68",
+        "p65",
+        "p67"
+      ]
+    },
+    {
+      "id": "strings-basic-and-medium",
+      "name": "Strings [Basic and Medium]",
+      "order": 5,
+      "problemIds": [
+        "p892",
+        "p2863",
+        "p394",
+        "p395",
+        "p393",
+        "p398",
+        "p2809",
+        "p399",
+        "p674",
+        "p903",
+        "p974",
+        "p2394",
+        "p638",
+        "p993",
+        "p984"
+      ]
+    },
+    {
+      "id": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+      "order": 6,
+      "problemIds": [
+        "p1237",
+        "p356",
+        "p352",
+        "p470",
+        "p905",
+        "p1234",
+        "p361",
+        "p348",
+        "p900",
+        "p2810",
+        "p2850",
+        "p627",
+        "p2845",
+        "p2847",
+        "p623",
+        "p2844",
+        "p628",
+        "p2849",
+        "p619",
+        "p616",
+        "p629",
+        "p2846",
+        "p617",
+        "p625",
+        "p609",
+        "p452",
+        "p610",
+        "p2842",
+        "p2843",
+        "p2841",
+        "p611"
+      ]
+    },
+    {
+      "id": "recursion-patternwise",
+      "name": "Recursion [PatternWise]",
+      "order": 7,
+      "problemIds": [
+        "p2862",
+        "p2855",
+        "p222",
+        "p2858",
+        "p901",
+        "p493",
+        "p876",
+        "p878",
+        "p2400",
+        "p880",
+        "p879",
+        "p864",
+        "p865",
+        "p867",
+        "p868",
+        "p866",
+        "p875",
+        "p871",
+        "p874",
+        "p870",
+        "p872",
+        "p4",
+        "p869",
+        "p873",
+        "p3"
+      ]
+    },
+    {
+      "id": "bit-manipulation-concepts-problems",
+      "name": "Bit Manipulation [Concepts & Problems]",
+      "order": 8,
+      "problemIds": [
+        "p1155",
+        "p177",
+        "p171",
+        "p172",
+        "p243",
+        "p2410",
+        "p1005",
+        "p140",
+        "p141",
+        "p143",
+        "p142",
+        "p146",
+        "p145",
+        "p2853",
+        "p370",
+        "p651",
+        "p652",
+        "p877"
+      ]
+    },
+    {
+      "id": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+      "order": 9,
+      "problemIds": [
+        "p390",
+        "p387",
+        "p392",
+        "p389",
+        "p391",
+        "p388",
+        "p966",
+        "p958",
+        "p586",
+        "p848",
+        "p849",
+        "p825",
+        "p824",
+        "p587",
+        "p968",
+        "p969",
+        "p768",
+        "p285",
+        "p965",
+        "p971",
+        "p967",
+        "p972",
+        "p970",
+        "p959",
+        "p962",
+        "p963",
+        "p964",
+        "p957",
+        "p961",
+        "p960"
+      ]
+    },
+    {
+      "id": "sliding-window-two-pointer-combined-problems",
+      "name": "Sliding Window & Two Pointer Combined Problems",
+      "order": 10,
+      "problemIds": [
+        "p2857",
+        "p930",
+        "p926",
+        "p927",
+        "p923",
+        "p924",
+        "p925",
+        "p922",
+        "p928",
+        "p988",
+        "p931",
+        "p754"
+      ]
+    },
+    {
+      "id": "heaps-learning-medium-hard-problems",
+      "name": "Heaps [Learning, Medium, Hard Problems]",
+      "order": 11,
+      "problemIds": [
+        "p1223",
+        "p576",
+        "p571",
+        "p572",
+        "p578",
+        "p2840",
+        "p2409",
+        "p569",
+        "p898",
+        "p1008",
+        "p556",
+        "p565",
+        "p755",
+        "p2838",
+        "p568",
+        "p566",
+        "p1018"
+      ]
+    },
+    {
+      "id": "greedy-algorithms-easy-medium-hard",
+      "name": "Greedy Algorithms [Easy, Medium/Hard]",
+      "order": 12,
+      "problemIds": [
+        "p2834",
+        "p489",
+        "p543",
+        "p545",
+        "p549",
+        "p542",
+        "p595",
+        "p548",
+        "p547",
+        "p544",
+        "p551",
+        "p2859",
+        "p546",
+        "p712",
+        "p550"
+      ]
+    },
+    {
+      "id": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Binary Trees [Traversals, Medium and Hard Problems]",
+      "order": 13,
+      "problemIds": [
+        "p2865",
+        "p2864",
+        "p136",
+        "p137",
+        "p2785",
+        "p135",
+        "p134",
+        "p2872",
+        "p2786",
+        "p2788",
+        "p2787",
+        "p2789",
+        "p131",
+        "p127",
+        "p130",
+        "p132",
+        "p129",
+        "p126",
+        "p116",
+        "p125",
+        "p124",
+        "p115",
+        "p2782",
+        "p2784",
+        "p122",
+        "p118",
+        "p119",
+        "p185",
+        "p121",
+        "p120",
+        "p117",
+        "p111",
+        "p110",
+        "p2781",
+        "p112",
+        "p2791",
+        "p2792",
+        "p486"
+      ]
+    },
+    {
+      "id": "binary-search-trees-concept-and-problems",
+      "name": "Binary Search Trees [Concept and Problems]",
+      "order": 14,
+      "problemIds": [
+        "p1153",
+        "p2780",
+        "p2398",
+        "p107",
+        "p2778",
+        "p104",
+        "p102",
+        "p105",
+        "p100",
+        "p106",
+        "p101",
+        "p2775",
+        "p2772",
+        "p2774",
+        "p97",
+        "p98"
+      ]
+    },
+    {
+      "id": "graphs-concepts-problems",
+      "name": "Graphs [Concepts & Problems]",
+      "order": 15,
+      "problemIds": [
+        "p1222",
+        "p2870",
+        "p2871",
+        "p528",
+        "p529",
+        "p2831",
+        "p535",
+        "p2830",
+        "p536",
+        "p531",
+        "p2817",
+        "p501",
+        "p530",
+        "p537",
+        "p533",
+        "p509",
+        "p510",
+        "p534",
+        "p2813",
+        "p2814",
+        "p2822",
+        "p502",
+        "p500",
+        "p504",
+        "p505",
+        "p506",
+        "p503",
+        "p508",
+        "p507",
+        "p2827",
+        "p2828",
+        "p527",
+        "p525",
+        "p519",
+        "p764",
+        "p524",
+        "p523",
+        "p2826",
+        "p522",
+        "p521",
+        "p1221",
+        "p2825",
+        "p516",
+        "p517",
+        "p515",
+        "p513",
+        "p511",
+        "p514",
+        "p512",
+        "p1006",
+        "p497",
+        "p496",
+        "p498"
+      ]
+    },
+    {
+      "id": "dynamic-programming-patterns-and-problems",
+      "name": "Dynamic Programming [Patterns and Problems]",
+      "order": 16,
+      "problemIds": [
+        "p1195",
+        "p287",
+        "p288",
+        "p289",
+        "p291",
+        "p290",
+        "p292",
+        "p2795",
+        "p300",
+        "p298",
+        "p299",
+        "p769",
+        "p2804",
+        "p321",
+        "p320",
+        "p318",
+        "p317",
+        "p541",
+        "p2802",
+        "p324",
+        "p2801",
+        "p325",
+        "p2803",
+        "p308",
+        "p2799",
+        "p309",
+        "p310",
+        "p2800",
+        "p311",
+        "p313",
+        "p306",
+        "p307",
+        "p314",
+        "p301",
+        "p302",
+        "p303",
+        "p304",
+        "p56",
+        "p305",
+        "p636",
+        "p851",
+        "p2851",
+        "p603",
+        "p640",
+        "p633",
+        "p780",
+        "p327",
+        "p2806",
+        "p328",
+        "p326",
+        "p276",
+        "p329",
+        "p810",
+        "p2860",
+        "p2395"
+      ]
+    },
+    {
+      "id": "tries",
+      "name": "Tries",
+      "order": 17,
+      "problemIds": [
+        "p1028",
+        "p1027",
+        "p1023",
+        "p1026",
+        "p2390",
+        "p1024",
+        "p1025"
+      ]
+    },
+    {
+      "id": "strings",
+      "name": "Strings",
+      "order": 18,
+      "problemIds": [
+        "p983",
+        "p982",
+        "p2399",
+        "p979",
+        "p981",
+        "p977",
+        "p980",
+        "p978",
+        "p231"
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "id": "p425",
+      "topicId": "learn-the-basics",
+      "name": "Input Output",
+      "difficulty": "easy",
+      "order": 1,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Input Output",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p1211",
+      "topicId": "learn-the-basics",
+      "name": "Cpp Basics",
+      "difficulty": "easy",
+      "order": 2,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Cpp Basics",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p424",
+      "topicId": "learn-the-basics",
+      "name": "If ElseIf",
+      "difficulty": "easy",
+      "order": 3,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "If ElseIf",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p429",
+      "topicId": "learn-the-basics",
+      "name": "Switch Case",
+      "difficulty": "easy",
+      "order": 4,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Switch Case",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p2869",
+      "topicId": "learn-the-basics",
+      "name": "What are arrays, strings?",
+      "difficulty": "easy",
+      "order": 5,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "What are arrays, strings?",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p2867",
+      "topicId": "learn-the-basics",
+      "name": "For loops",
+      "difficulty": "easy",
+      "order": 6,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "For loops",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p2868",
+      "topicId": "learn-the-basics",
+      "name": "While loops",
+      "difficulty": "easy",
+      "order": 7,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "While loops",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p2866",
+      "topicId": "learn-the-basics",
+      "name": "Functions (Pass by Reference and Value)",
+      "difficulty": "easy",
+      "order": 8,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Functions (Pass by Reference and Value)",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p1219",
+      "topicId": "learn-the-basics",
+      "name": "Theory with examples",
+      "difficulty": "easy",
+      "order": 9,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Theory with examples",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p1216",
+      "topicId": "learn-the-basics",
+      "name": "Easy and Medium",
+      "difficulty": "easy",
+      "order": 10,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Easy and Medium",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p1205",
+      "topicId": "learn-the-basics",
+      "name": "Hard",
+      "difficulty": "easy",
+      "order": 11,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Hard",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p401",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 1",
+      "difficulty": "easy",
+      "order": 12,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 1",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p412",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 2",
+      "difficulty": "easy",
+      "order": 13,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 2",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p416",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 3",
+      "difficulty": "easy",
+      "order": 14,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 3",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p417",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 4",
+      "difficulty": "easy",
+      "order": 15,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 4",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p418",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 5",
+      "difficulty": "easy",
+      "order": 16,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 5",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p419",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 6",
+      "difficulty": "easy",
+      "order": 17,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 6",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p420",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 7",
+      "difficulty": "easy",
+      "order": 18,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 7",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p421",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 8",
+      "difficulty": "easy",
+      "order": 19,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 8",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p422",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 9",
+      "difficulty": "easy",
+      "order": 20,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 9",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p402",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 10",
+      "difficulty": "easy",
+      "order": 21,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 10",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p403",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 11",
+      "difficulty": "easy",
+      "order": 22,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 11",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p404",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 12",
+      "difficulty": "easy",
+      "order": 23,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 12",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p405",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 13",
+      "difficulty": "easy",
+      "order": 24,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 13",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p406",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 14",
+      "difficulty": "easy",
+      "order": 25,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 14",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p407",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 15",
+      "difficulty": "easy",
+      "order": 26,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 15",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p408",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 16",
+      "difficulty": "easy",
+      "order": 27,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 16",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p409",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 17",
+      "difficulty": "easy",
+      "order": 28,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 17",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p410",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 18",
+      "difficulty": "easy",
+      "order": 29,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 18",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p411",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 19",
+      "difficulty": "easy",
+      "order": 30,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 19",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p413",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 20",
+      "difficulty": "medium",
+      "order": 31,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 20",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p414",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 21",
+      "difficulty": "medium",
+      "order": 32,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 21",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p415",
+      "topicId": "learn-the-basics",
+      "name": "Pattern 22",
+      "difficulty": "medium",
+      "order": 33,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Pattern 22",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p1218",
+      "topicId": "learn-the-basics",
+      "name": "STL",
+      "difficulty": "easy",
+      "order": 34,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "STL",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p1217",
+      "topicId": "learn-the-basics",
+      "name": "Java Collections",
+      "difficulty": "easy",
+      "order": 35,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Java Collections",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p367",
+      "topicId": "learn-the-basics",
+      "name": "Count all Digits of a Number",
+      "difficulty": "easy",
+      "order": 36,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Count all Digits of a Number",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p376",
+      "topicId": "learn-the-basics",
+      "name": "Reverse a number",
+      "difficulty": "easy",
+      "order": 37,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Reverse a number",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p374",
+      "topicId": "learn-the-basics",
+      "name": "Palindrome Number",
+      "difficulty": "easy",
+      "order": 38,
+      "patterns": [
+        "Fundamentals",
+        "Two Pointer"
+      ],
+      "title": "Palindrome Number",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p372",
+      "topicId": "learn-the-basics",
+      "name": "GCD of Two Numbers",
+      "difficulty": "easy",
+      "order": 39,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "GCD of Two Numbers",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p366",
+      "topicId": "learn-the-basics",
+      "name": "Check if the Number is Armstrong",
+      "difficulty": "easy",
+      "order": 40,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Check if the Number is Armstrong",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p2807",
+      "topicId": "learn-the-basics",
+      "name": "Print all Divisors",
+      "difficulty": "easy",
+      "order": 41,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Print all Divisors",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p365",
+      "topicId": "learn-the-basics",
+      "name": "Check for Prime Number",
+      "difficulty": "easy",
+      "order": 42,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Check for Prime Number",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p2401",
+      "topicId": "learn-the-basics",
+      "name": "Understand recursion by print something N times",
+      "difficulty": "easy",
+      "order": 43,
+      "patterns": [
+        "Fundamentals",
+        "Recursion"
+      ],
+      "title": "Understand recursion by print something N times",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p2405",
+      "topicId": "learn-the-basics",
+      "name": "Print name N times using recursion",
+      "difficulty": "easy",
+      "order": 44,
+      "patterns": [
+        "Fundamentals",
+        "Recursion"
+      ],
+      "title": "Print name N times using recursion",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p850",
+      "topicId": "learn-the-basics",
+      "name": "Print 1 to N using Recursion",
+      "difficulty": "easy",
+      "order": 45,
+      "patterns": [
+        "Fundamentals",
+        "Recursion"
+      ],
+      "title": "Print 1 to N using Recursion",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p852",
+      "topicId": "learn-the-basics",
+      "name": "Print N to 1 using Recursion",
+      "difficulty": "easy",
+      "order": 46,
+      "patterns": [
+        "Fundamentals",
+        "Recursion"
+      ],
+      "title": "Print N to 1 using Recursion",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p386",
+      "topicId": "learn-the-basics",
+      "name": "Sum of First N Numbers",
+      "difficulty": "easy",
+      "order": 47,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Sum of First N Numbers",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p371",
+      "topicId": "learn-the-basics",
+      "name": "Factorial of a given number",
+      "difficulty": "easy",
+      "order": 48,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Factorial of a given number",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p342",
+      "topicId": "learn-the-basics",
+      "name": "Reverse an array",
+      "difficulty": "easy",
+      "order": 49,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Reverse an array",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p378",
+      "topicId": "learn-the-basics",
+      "name": "Check if String is Palindrome or Not",
+      "difficulty": "easy",
+      "order": 50,
+      "patterns": [
+        "Fundamentals",
+        "Two Pointer"
+      ],
+      "title": "Check if String is Palindrome or Not",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p381",
+      "topicId": "learn-the-basics",
+      "name": "Fibonacci Number",
+      "difficulty": "easy",
+      "order": 51,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Fibonacci Number",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p1203",
+      "topicId": "learn-the-basics",
+      "name": "Basic Hashing",
+      "difficulty": "easy",
+      "order": 52,
+      "patterns": [
+        "Fundamentals",
+        "Hashing"
+      ],
+      "title": "Basic Hashing",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p252",
+      "topicId": "learn-the-basics",
+      "name": "Counting Frequencies of Array Elements",
+      "difficulty": "easy",
+      "order": 53,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Counting Frequencies of Array Elements",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p344",
+      "topicId": "learn-the-basics",
+      "name": "Highest Occurring Element in an Array",
+      "difficulty": "easy",
+      "order": 54,
+      "patterns": [
+        "Fundamentals"
+      ],
+      "title": "Highest Occurring Element in an Array",
+      "topic": "learn-the-basics"
+    },
+    {
+      "id": "p947",
+      "topicId": "learn-important-sorting-techniques",
+      "name": "Selection Sort",
+      "difficulty": "easy",
+      "order": 55,
+      "patterns": [
+        "Sorting"
+      ],
+      "title": "Selection Sort",
+      "topic": "learn-important-sorting-techniques"
+    },
+    {
+      "id": "p943",
+      "topicId": "learn-important-sorting-techniques",
+      "name": "Bubble Sort",
+      "difficulty": "easy",
+      "order": 56,
+      "patterns": [
+        "Sorting"
+      ],
+      "title": "Bubble Sort",
+      "topic": "learn-important-sorting-techniques"
+    },
+    {
+      "id": "p944",
+      "topicId": "learn-important-sorting-techniques",
+      "name": "Insertion Sorting",
+      "difficulty": "easy",
+      "order": 57,
+      "patterns": [
+        "Sorting"
+      ],
+      "title": "Insertion Sorting",
+      "topic": "learn-important-sorting-techniques"
+    },
+    {
+      "id": "p945",
+      "topicId": "learn-important-sorting-techniques",
+      "name": "Merge Sorting",
+      "difficulty": "medium",
+      "order": 58,
+      "patterns": [
+        "Sorting"
+      ],
+      "title": "Merge Sorting",
+      "topic": "learn-important-sorting-techniques"
+    },
+    {
+      "id": "p881",
+      "topicId": "learn-important-sorting-techniques",
+      "name": "Recursive Bubble Sort",
+      "difficulty": "easy",
+      "order": 59,
+      "patterns": [
+        "Sorting"
+      ],
+      "title": "Recursive Bubble Sort",
+      "topic": "learn-important-sorting-techniques"
+    },
+    {
+      "id": "p882",
+      "topicId": "learn-important-sorting-techniques",
+      "name": "Recursive Insertion Sort",
+      "difficulty": "easy",
+      "order": 60,
+      "patterns": [
+        "Sorting"
+      ],
+      "title": "Recursive Insertion Sort",
+      "topic": "learn-important-sorting-techniques"
+    },
+    {
+      "id": "p946",
+      "topicId": "learn-important-sorting-techniques",
+      "name": "Quick Sorting",
+      "difficulty": "easy",
+      "order": 61,
+      "patterns": [
+        "Sorting"
+      ],
+      "title": "Quick Sorting",
+      "topic": "learn-important-sorting-techniques"
+    },
+    {
+      "id": "p38",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Largest Element",
+      "difficulty": "easy",
+      "order": 62,
+      "patterns": [
+        "Arrays"
+      ],
+      "title": "Largest Element",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p43",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Second Largest Element",
+      "difficulty": "easy",
+      "order": 63,
+      "patterns": [
+        "Arrays"
+      ],
+      "title": "Second Largest Element",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p379",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Check if the Array is Sorted II",
+      "difficulty": "easy",
+      "order": 64,
+      "patterns": [
+        "Arrays",
+        "Sorting"
+      ],
+      "title": "Check if the Array is Sorted II",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p2764",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Remove duplicates from Sorted array",
+      "difficulty": "easy",
+      "order": 65,
+      "patterns": [
+        "Arrays",
+        "Sorting",
+        "Two Pointer"
+      ],
+      "title": "Remove duplicates from Sorted array",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p40",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Left Rotate Array by One",
+      "difficulty": "easy",
+      "order": 66,
+      "patterns": [
+        "Arrays",
+        "Prefix Sum"
+      ],
+      "title": "Left Rotate Array by One",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p39",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Left Rotate Array by K Places",
+      "difficulty": "easy",
+      "order": 67,
+      "patterns": [
+        "Arrays",
+        "Prefix Sum"
+      ],
+      "title": "Left Rotate Array by K Places",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p46",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Move Zeros to End",
+      "difficulty": "easy",
+      "order": 68,
+      "patterns": [
+        "Arrays",
+        "Two Pointer"
+      ],
+      "title": "Move Zeros to End",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p41",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Linear Search",
+      "difficulty": "easy",
+      "order": 69,
+      "patterns": [
+        "Arrays"
+      ],
+      "title": "Linear Search",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p48",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Union of two sorted arrays",
+      "difficulty": "easy",
+      "order": 70,
+      "patterns": [
+        "Arrays",
+        "Sorting"
+      ],
+      "title": "Union of two sorted arrays",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p44",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Find missing number",
+      "difficulty": "easy",
+      "order": 71,
+      "patterns": [
+        "Arrays"
+      ],
+      "title": "Find missing number",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p42",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Maximum Consecutive Ones",
+      "difficulty": "easy",
+      "order": 72,
+      "patterns": [
+        "Arrays"
+      ],
+      "title": "Maximum Consecutive Ones",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p2793",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Find the number that appears once, and other numbers twice.",
+      "difficulty": "medium",
+      "order": 73,
+      "patterns": [
+        "Arrays"
+      ],
+      "title": "Find the number that appears once, and other numbers twice.",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p2836",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Longest subarray with given sum K(positives)",
+      "difficulty": "medium",
+      "order": 74,
+      "patterns": [
+        "Arrays",
+        "Sliding Window"
+      ],
+      "title": "Longest subarray with given sum K(positives)",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p564",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Longest subarray with sum K",
+      "difficulty": "medium",
+      "order": 75,
+      "patterns": [
+        "Arrays",
+        "Sliding Window"
+      ],
+      "title": "Longest subarray with sum K",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p37",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Two Sum",
+      "difficulty": "easy",
+      "order": 76,
+      "patterns": [
+        "Arrays",
+        "Two Pointer"
+      ],
+      "title": "Two Sum",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p2762",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Sort an array of 0's 1's and 2's",
+      "difficulty": "medium",
+      "order": 77,
+      "patterns": [
+        "Arrays",
+        "Sorting"
+      ],
+      "title": "Sort an array of 0's 1's and 2's",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p22",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Majority Element-I",
+      "difficulty": "easy",
+      "order": 78,
+      "patterns": [
+        "Arrays"
+      ],
+      "title": "Majority Element-I",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p29",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Kadane's Algorithm",
+      "difficulty": "medium",
+      "order": 79,
+      "patterns": [
+        "Arrays",
+        "Prefix Sum"
+      ],
+      "title": "Kadane's Algorithm",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p2761",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Print subarray with maximum subarray sum (extended version of above problem)",
+      "difficulty": "medium",
+      "order": 80,
+      "patterns": [
+        "Arrays",
+        "Prefix Sum"
+      ],
+      "title": "Print subarray with maximum subarray sum (extended version of above problem)",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p2798",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Stock Buy and Sell",
+      "difficulty": "medium",
+      "order": 81,
+      "patterns": [
+        "Arrays"
+      ],
+      "title": "Stock Buy and Sell",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p34",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Rearrange array elements by sign",
+      "difficulty": "medium",
+      "order": 82,
+      "patterns": [
+        "Arrays",
+        "Prefix Sum"
+      ],
+      "title": "Rearrange array elements by sign",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p31",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Next Permutation",
+      "difficulty": "medium",
+      "order": 83,
+      "patterns": [
+        "Arrays",
+        "Recursion"
+      ],
+      "title": "Next Permutation",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p30",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Leaders in an Array",
+      "difficulty": "medium",
+      "order": 84,
+      "patterns": [
+        "Arrays",
+        "Prefix Sum"
+      ],
+      "title": "Leaders in an Array",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p2835",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Longest Consecutive Sequence in an Array",
+      "difficulty": "medium",
+      "order": 85,
+      "patterns": [
+        "Arrays",
+        "Prefix Sum"
+      ],
+      "title": "Longest Consecutive Sequence in an Array",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p911",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Set Matrix Zeroes",
+      "difficulty": "medium",
+      "order": 86,
+      "patterns": [
+        "Arrays"
+      ],
+      "title": "Set Matrix Zeroes",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p35",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Rotate matrix by 90 degrees",
+      "difficulty": "medium",
+      "order": 87,
+      "patterns": [
+        "Arrays"
+      ],
+      "title": "Rotate matrix by 90 degrees",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p33",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Print the matrix in spiral manner",
+      "difficulty": "medium",
+      "order": 88,
+      "patterns": [
+        "Arrays"
+      ],
+      "title": "Print the matrix in spiral manner",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p561",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Count subarrays with given sum",
+      "difficulty": "medium",
+      "order": 89,
+      "patterns": [
+        "Arrays",
+        "Prefix Sum"
+      ],
+      "title": "Count subarrays with given sum",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p813",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Pascal's Triangle I",
+      "difficulty": "easy",
+      "order": 90,
+      "patterns": [
+        "Arrays"
+      ],
+      "title": "Pascal's Triangle I",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p23",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Majority Element-II",
+      "difficulty": "hard",
+      "order": 91,
+      "patterns": [
+        "Arrays"
+      ],
+      "title": "Majority Element-II",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p27",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "3 Sum",
+      "difficulty": "medium",
+      "order": 92,
+      "patterns": [
+        "Arrays",
+        "Two Pointer"
+      ],
+      "title": "3 Sum",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p28",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "4 Sum",
+      "difficulty": "medium",
+      "order": 93,
+      "patterns": [
+        "Arrays",
+        "Two Pointer"
+      ],
+      "title": "4 Sum",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p605",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Largest Subarray with Sum 0",
+      "difficulty": "medium",
+      "order": 94,
+      "patterns": [
+        "Arrays",
+        "Prefix Sum"
+      ],
+      "title": "Largest Subarray with Sum 0",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p562",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Count subarrays with given xor K",
+      "difficulty": "hard",
+      "order": 95,
+      "patterns": [
+        "Arrays",
+        "Bit Manipulation",
+        "Sliding Window"
+      ],
+      "title": "Count subarrays with given xor K",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p715",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Merge Overlapping Subintervals",
+      "difficulty": "medium",
+      "order": 96,
+      "patterns": [
+        "Arrays",
+        "Intervals"
+      ],
+      "title": "Merge Overlapping Subintervals",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p25",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Merge two sorted arrays without extra space",
+      "difficulty": "medium",
+      "order": 97,
+      "patterns": [
+        "Arrays",
+        "Sorting"
+      ],
+      "title": "Merge two sorted arrays without extra space",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p21",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Find the repeating and missing number",
+      "difficulty": "hard",
+      "order": 98,
+      "patterns": [
+        "Arrays"
+      ],
+      "title": "Find the repeating and missing number",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p20",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Count Inversions",
+      "difficulty": "hard",
+      "order": 99,
+      "patterns": [
+        "Arrays"
+      ],
+      "title": "Count Inversions",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p26",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Reverse Pairs",
+      "difficulty": "hard",
+      "order": 100,
+      "patterns": [
+        "Arrays"
+      ],
+      "title": "Reverse Pairs",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p24",
+      "topicId": "solve-problems-on-arrays-easy-medium-hard",
+      "name": "Maximum Product Subarray in an Array",
+      "difficulty": "hard",
+      "order": 101,
+      "patterns": [
+        "Arrays",
+        "Prefix Sum"
+      ],
+      "title": "Maximum Product Subarray in an Array",
+      "topic": "solve-problems-on-arrays-easy-medium-hard"
+    },
+    {
+      "id": "p81",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Search X in sorted array",
+      "difficulty": "easy",
+      "order": 102,
+      "patterns": [
+        "Binary Search",
+        "Sorting"
+      ],
+      "title": "Search X in sorted array",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p80",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Lower Bound",
+      "difficulty": "easy",
+      "order": 103,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Lower Bound",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p82",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Upper Bound",
+      "difficulty": "easy",
+      "order": 104,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Upper Bound",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p89",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Search insert position",
+      "difficulty": "easy",
+      "order": 105,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Search insert position",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p86",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Floor and Ceil in Sorted Array",
+      "difficulty": "easy",
+      "order": 106,
+      "patterns": [
+        "Binary Search",
+        "Sorting"
+      ],
+      "title": "Floor and Ceil in Sorted Array",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p85",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "First and last occurrence",
+      "difficulty": "easy",
+      "order": 107,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "First and last occurrence",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p229",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Count Occurrences in a Sorted Array",
+      "difficulty": "easy",
+      "order": 108,
+      "patterns": [
+        "Binary Search",
+        "Sorting"
+      ],
+      "title": "Count Occurrences in a Sorted Array",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p87",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Search in rotated sorted array-I",
+      "difficulty": "medium",
+      "order": 109,
+      "patterns": [
+        "Binary Search",
+        "Sorting"
+      ],
+      "title": "Search in rotated sorted array-I",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p88",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Search in rotated sorted array-II",
+      "difficulty": "medium",
+      "order": 110,
+      "patterns": [
+        "Binary Search",
+        "Sorting"
+      ],
+      "title": "Search in rotated sorted array-II",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p83",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Find minimum in Rotated Sorted Array",
+      "difficulty": "easy",
+      "order": 111,
+      "patterns": [
+        "Binary Search",
+        "Sorting"
+      ],
+      "title": "Find minimum in Rotated Sorted Array",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p84",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Find out how many times the array is rotated",
+      "difficulty": "easy",
+      "order": 112,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Find out how many times the array is rotated",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p2770",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Single element in a Sorted Array",
+      "difficulty": "medium",
+      "order": 113,
+      "patterns": [
+        "Binary Search",
+        "Sorting"
+      ],
+      "title": "Single element in a Sorted Array",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p75",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Find peak element",
+      "difficulty": "medium",
+      "order": 114,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Find peak element",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p92",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Find square root of a number",
+      "difficulty": "medium",
+      "order": 115,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Find square root of a number",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p91",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Find Nth root of a number",
+      "difficulty": "medium",
+      "order": 116,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Find Nth root of a number",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p94",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Koko eating bananas",
+      "difficulty": "medium",
+      "order": 117,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Koko eating bananas",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p95",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Minimum days to make M bouquets",
+      "difficulty": "medium",
+      "order": 118,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Minimum days to make M bouquets",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p93",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Find the smallest divisor",
+      "difficulty": "medium",
+      "order": 119,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Find the smallest divisor",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p161",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Capacity to Ship Packages Within D Days",
+      "difficulty": "medium",
+      "order": 120,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Capacity to Ship Packages Within D Days",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p600",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Kth Missing Positive Number",
+      "difficulty": "medium",
+      "order": 121,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Kth Missing Positive Number",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p73",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Aggressive Cows",
+      "difficulty": "hard",
+      "order": 122,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Aggressive Cows",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p74",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Book Allocation Problem",
+      "difficulty": "hard",
+      "order": 123,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Book Allocation Problem",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p79",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Split array - largest sum",
+      "difficulty": "hard",
+      "order": 124,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Split array - largest sum",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p805",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Painter's Partition",
+      "difficulty": "medium",
+      "order": 125,
+      "patterns": [
+        "Binary Search",
+        "Greedy"
+      ],
+      "title": "Painter's Partition",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p78",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Minimize Max Distance to Gas Station",
+      "difficulty": "hard",
+      "order": 126,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Minimize Max Distance to Gas Station",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p77",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Median of 2 sorted arrays",
+      "difficulty": "hard",
+      "order": 127,
+      "patterns": [
+        "Binary Search",
+        "Heap",
+        "Sorting"
+      ],
+      "title": "Median of 2 sorted arrays",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p2767",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Kth element of 2 sorted arrays",
+      "difficulty": "medium",
+      "order": 128,
+      "patterns": [
+        "Binary Search",
+        "Sorting"
+      ],
+      "title": "Kth element of 2 sorted arrays",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p66",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Find row with maximum 1's",
+      "difficulty": "easy",
+      "order": 129,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Find row with maximum 1's",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p69",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Search in a 2D matrix",
+      "difficulty": "hard",
+      "order": 130,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Search in a 2D matrix",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p68",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Search in 2D matrix - II",
+      "difficulty": "hard",
+      "order": 131,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Search in 2D matrix - II",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p65",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Find Peak Element - II",
+      "difficulty": "medium",
+      "order": 132,
+      "patterns": [
+        "Binary Search"
+      ],
+      "title": "Find Peak Element - II",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p67",
+      "topicId": "binary-search-1d-2d-arrays-search-space",
+      "name": "Matrix Median",
+      "difficulty": "hard",
+      "order": 133,
+      "patterns": [
+        "Binary Search",
+        "Heap"
+      ],
+      "title": "Matrix Median",
+      "topic": "binary-search-1d-2d-arrays-search-space"
+    },
+    {
+      "id": "p892",
+      "topicId": "strings-basic-and-medium",
+      "name": "Remove Outermost Parentheses",
+      "difficulty": "medium",
+      "order": 134,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "Remove Outermost Parentheses",
+      "topic": "strings-basic-and-medium"
+    },
+    {
+      "id": "p2863",
+      "topicId": "strings-basic-and-medium",
+      "name": "Reverse words in a given string / Palindrome Check",
+      "difficulty": "medium",
+      "order": 135,
+      "patterns": [
+        "Hashing",
+        "Two Pointer"
+      ],
+      "title": "Reverse words in a given string / Palindrome Check",
+      "topic": "strings-basic-and-medium"
+    },
+    {
+      "id": "p394",
+      "topicId": "strings-basic-and-medium",
+      "name": "Largest Odd Number in a String",
+      "difficulty": "easy",
+      "order": 136,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "Largest Odd Number in a String",
+      "topic": "strings-basic-and-medium"
+    },
+    {
+      "id": "p395",
+      "topicId": "strings-basic-and-medium",
+      "name": "Longest Common Prefix",
+      "difficulty": "easy",
+      "order": 137,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "Longest Common Prefix",
+      "topic": "strings-basic-and-medium"
+    },
+    {
+      "id": "p393",
+      "topicId": "strings-basic-and-medium",
+      "name": "Isomorphic String",
+      "difficulty": "easy",
+      "order": 138,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "Isomorphic String",
+      "topic": "strings-basic-and-medium"
+    },
+    {
+      "id": "p398",
+      "topicId": "strings-basic-and-medium",
+      "name": "Rotate String",
+      "difficulty": "easy",
+      "order": 139,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "Rotate String",
+      "topic": "strings-basic-and-medium"
+    },
+    {
+      "id": "p2809",
+      "topicId": "strings-basic-and-medium",
+      "name": "Check if two strings are anagram of each other",
+      "difficulty": "easy",
+      "order": 140,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "Check if two strings are anagram of each other",
+      "topic": "strings-basic-and-medium"
+    },
+    {
+      "id": "p399",
+      "topicId": "strings-basic-and-medium",
+      "name": "Sort Characters by Frequency",
+      "difficulty": "easy",
+      "order": 141,
+      "patterns": [
+        "Hashing",
+        "Sorting"
+      ],
+      "title": "Sort Characters by Frequency",
+      "topic": "strings-basic-and-medium"
+    },
+    {
+      "id": "p674",
+      "topicId": "strings-basic-and-medium",
+      "name": "Maximum Nesting Depth of the Parentheses",
+      "difficulty": "medium",
+      "order": 142,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "topic": "strings-basic-and-medium"
+    },
+    {
+      "id": "p903",
+      "topicId": "strings-basic-and-medium",
+      "name": "Roman to Integer",
+      "difficulty": "medium",
+      "order": 143,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "Roman to Integer",
+      "topic": "strings-basic-and-medium"
+    },
+    {
+      "id": "p974",
+      "topicId": "strings-basic-and-medium",
+      "name": "String to Integer (atoi)",
+      "difficulty": "medium",
+      "order": 144,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "String to Integer (atoi)",
+      "topic": "strings-basic-and-medium"
+    },
+    {
+      "id": "p2394",
+      "topicId": "strings-basic-and-medium",
+      "name": "Count Number of Substrings",
+      "difficulty": "easy",
+      "order": 145,
+      "patterns": [
+        "Hashing",
+        "Tree"
+      ],
+      "title": "Count Number of Substrings",
+      "topic": "strings-basic-and-medium"
+    },
+    {
+      "id": "p638",
+      "topicId": "strings-basic-and-medium",
+      "name": "Longest Palindromic Substring",
+      "difficulty": "medium",
+      "order": 146,
+      "patterns": [
+        "Hashing",
+        "Tree"
+      ],
+      "title": "Longest Palindromic Substring",
+      "topic": "strings-basic-and-medium"
+    },
+    {
+      "id": "p993",
+      "topicId": "strings-basic-and-medium",
+      "name": "Sum of Beauty of All Substrings",
+      "difficulty": "medium",
+      "order": 147,
+      "patterns": [
+        "Hashing",
+        "Tree"
+      ],
+      "title": "Sum of Beauty of All Substrings",
+      "topic": "strings-basic-and-medium"
+    },
+    {
+      "id": "p984",
+      "topicId": "strings-basic-and-medium",
+      "name": "Reverse every word in a string",
+      "difficulty": "medium",
+      "order": 148,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "Reverse every word in a string",
+      "topic": "strings-basic-and-medium"
+    },
+    {
+      "id": "p1237",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Introduction to Singly LinkedList",
+      "difficulty": "easy",
+      "order": 149,
+      "patterns": [
+        "DP",
+        "Linked List"
+      ],
+      "title": "Introduction to Singly LinkedList",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p356",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Insertion at the head of Linked List",
+      "difficulty": "easy",
+      "order": 150,
+      "patterns": [
+        "DP",
+        "Linked List"
+      ],
+      "title": "Insertion at the head of Linked List",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p352",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Deletion of the head of LL",
+      "difficulty": "easy",
+      "order": 151,
+      "patterns": [
+        "Linked List"
+      ],
+      "title": "Deletion of the head of LL",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p470",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Find the length of the Linked List",
+      "difficulty": "easy",
+      "order": 152,
+      "patterns": [
+        "DP",
+        "Linked List"
+      ],
+      "title": "Find the length of the Linked List",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p905",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Search in Linked List",
+      "difficulty": "medium",
+      "order": 153,
+      "patterns": [
+        "DP",
+        "Linked List"
+      ],
+      "title": "Search in Linked List",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p1234",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Introduction to Doubly LL",
+      "difficulty": "easy",
+      "order": 154,
+      "patterns": [
+        "Linked List"
+      ],
+      "title": "Introduction to Doubly LL",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p361",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Insert node before head in Doubly Linked List",
+      "difficulty": "easy",
+      "order": 155,
+      "patterns": [
+        "DP",
+        "Linked List"
+      ],
+      "title": "Insert node before head in Doubly Linked List",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p348",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Delete head of Doubly Linked List",
+      "difficulty": "easy",
+      "order": 156,
+      "patterns": [
+        "DP",
+        "Linked List"
+      ],
+      "title": "Delete head of Doubly Linked List",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p900",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Reverse a Doubly Linked List",
+      "difficulty": "medium",
+      "order": 157,
+      "patterns": [
+        "DP",
+        "Linked List"
+      ],
+      "title": "Reverse a Doubly Linked List",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p2810",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Middle of a LinkedList [TortoiseHare Method]",
+      "difficulty": "easy",
+      "order": 158,
+      "patterns": [
+        "DP",
+        "Linked List"
+      ],
+      "title": "Middle of a LinkedList [TortoiseHare Method]",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p2850",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Reverse a LinkedList [Iterative]",
+      "difficulty": "medium",
+      "order": 159,
+      "patterns": [
+        "DP",
+        "Linked List"
+      ],
+      "title": "Reverse a LinkedList [Iterative]",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p627",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Reverse a LL",
+      "difficulty": "medium",
+      "order": 160,
+      "patterns": [
+        "Linked List"
+      ],
+      "title": "Reverse a LL",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p2845",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Detect a loop in LL",
+      "difficulty": "medium",
+      "order": 161,
+      "patterns": [
+        "Linked List"
+      ],
+      "title": "Detect a loop in LL",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p2847",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Find the starting point in LL",
+      "difficulty": "medium",
+      "order": 162,
+      "patterns": [
+        "Linked List"
+      ],
+      "title": "Find the starting point in LL",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p623",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Length of loop in LL",
+      "difficulty": "medium",
+      "order": 163,
+      "patterns": [
+        "Linked List"
+      ],
+      "title": "Length of loop in LL",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p2844",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Check if LL is palindrome or not",
+      "difficulty": "medium",
+      "order": 164,
+      "patterns": [
+        "Linked List",
+        "Two Pointer"
+      ],
+      "title": "Check if LL is palindrome or not",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p628",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Segregate odd and even nodes in Linked List",
+      "difficulty": "medium",
+      "order": 165,
+      "patterns": [
+        "DP",
+        "Linked List"
+      ],
+      "title": "Segregate odd and even nodes in Linked List",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p2849",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Remove Nth node from the back of the LL",
+      "difficulty": "medium",
+      "order": 166,
+      "patterns": [
+        "Linked List"
+      ],
+      "title": "Remove Nth node from the back of the LL",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p619",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Delete the middle node in LL",
+      "difficulty": "medium",
+      "order": 167,
+      "patterns": [
+        "Linked List"
+      ],
+      "title": "Delete the middle node in LL",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p616",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Sort LL",
+      "difficulty": "hard",
+      "order": 168,
+      "patterns": [
+        "Linked List",
+        "Sorting"
+      ],
+      "title": "Sort LL",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p629",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Sort a Linked List of 0's 1's and 2's",
+      "difficulty": "medium",
+      "order": 169,
+      "patterns": [
+        "DP",
+        "Linked List",
+        "Sorting"
+      ],
+      "title": "Sort a Linked List of 0's 1's and 2's",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p2846",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Find the intersection point of Y LL",
+      "difficulty": "medium",
+      "order": 170,
+      "patterns": [
+        "Linked List"
+      ],
+      "title": "Find the intersection point of Y LL",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p617",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Add one to a number represented by LL",
+      "difficulty": "medium",
+      "order": 171,
+      "patterns": [
+        "Linked List"
+      ],
+      "title": "Add one to a number represented by LL",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p625",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Add two numbers in Linked List",
+      "difficulty": "medium",
+      "order": 172,
+      "patterns": [
+        "DP",
+        "Linked List"
+      ],
+      "title": "Add two numbers in Linked List",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p609",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Delete all occurrences of a key in DLL",
+      "difficulty": "hard",
+      "order": 173,
+      "patterns": [
+        "Linked List"
+      ],
+      "title": "Delete all occurrences of a key in DLL",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p452",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Find Pairs with Given Sum in Doubly Linked List",
+      "difficulty": "medium",
+      "order": 174,
+      "patterns": [
+        "DP",
+        "Linked List"
+      ],
+      "title": "Find Pairs with Given Sum in Doubly Linked List",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p610",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Remove duplicates from sorted DLL",
+      "difficulty": "hard",
+      "order": 175,
+      "patterns": [
+        "Linked List",
+        "Sorting",
+        "Two Pointer"
+      ],
+      "title": "Remove duplicates from sorted DLL",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p2842",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Reverse LL in group of given size K",
+      "difficulty": "hard",
+      "order": 176,
+      "patterns": [
+        "Linked List"
+      ],
+      "title": "Reverse LL in group of given size K",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p2843",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Rotate a LL",
+      "difficulty": "hard",
+      "order": 177,
+      "patterns": [
+        "Linked List"
+      ],
+      "title": "Rotate a LL",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p2841",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Flattening of LL",
+      "difficulty": "hard",
+      "order": 178,
+      "patterns": [
+        "Linked List"
+      ],
+      "title": "Flattening of LL",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p611",
+      "topicId": "learn-linkedlist-single-ll-double-ll-medium-hard-problems",
+      "name": "Clone a LL with random and next pointer",
+      "difficulty": "hard",
+      "order": 179,
+      "patterns": [
+        "Linked List"
+      ],
+      "title": "Clone a LL with random and next pointer",
+      "topic": "learn-linkedlist-single-ll-double-ll-medium-hard-problems"
+    },
+    {
+      "id": "p2862",
+      "topicId": "recursion-patternwise",
+      "name": "Recursive Implementation of atoi()",
+      "difficulty": "medium",
+      "order": 180,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Recursive Implementation of atoi()",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p2855",
+      "topicId": "recursion-patternwise",
+      "name": "Pow(x, n)",
+      "difficulty": "easy",
+      "order": 181,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Pow(x, n)",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p222",
+      "topicId": "recursion-patternwise",
+      "name": "Count Good Numbers",
+      "difficulty": "medium",
+      "order": 182,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Count Good Numbers",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p2858",
+      "topicId": "recursion-patternwise",
+      "name": "Sort a stack using recursion",
+      "difficulty": "medium",
+      "order": 183,
+      "patterns": [
+        "Recursion",
+        "Sorting",
+        "Stack & Queue"
+      ],
+      "title": "Sort a stack using recursion",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p901",
+      "topicId": "recursion-patternwise",
+      "name": "Reverse a Stack",
+      "difficulty": "medium",
+      "order": 184,
+      "patterns": [
+        "Recursion",
+        "Stack & Queue"
+      ],
+      "title": "Reverse a Stack",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p493",
+      "topicId": "recursion-patternwise",
+      "name": "Generate Binary Strings Without Consecutive 1s",
+      "difficulty": "medium",
+      "order": 185,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Generate Binary Strings Without Consecutive 1s",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p876",
+      "topicId": "recursion-patternwise",
+      "name": "Generate Parentheses",
+      "difficulty": "medium",
+      "order": 186,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Generate Parentheses",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p878",
+      "topicId": "recursion-patternwise",
+      "name": "Power Set",
+      "difficulty": "medium",
+      "order": 187,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Power Set",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p2400",
+      "topicId": "recursion-patternwise",
+      "name": "Learn All Patterns of Subsequences (Theory)",
+      "difficulty": "easy",
+      "order": 188,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Learn All Patterns of Subsequences (Theory)",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p880",
+      "topicId": "recursion-patternwise",
+      "name": "Count all subsequences with sum K",
+      "difficulty": "easy",
+      "order": 189,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Count all subsequences with sum K",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p879",
+      "topicId": "recursion-patternwise",
+      "name": "Check if there exists a subsequence with sum K",
+      "difficulty": "easy",
+      "order": 190,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Check if there exists a subsequence with sum K",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p864",
+      "topicId": "recursion-patternwise",
+      "name": "Combination Sum",
+      "difficulty": "medium",
+      "order": 191,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Combination Sum",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p865",
+      "topicId": "recursion-patternwise",
+      "name": "Combination Sum II",
+      "difficulty": "medium",
+      "order": 192,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Combination Sum II",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p867",
+      "topicId": "recursion-patternwise",
+      "name": "Subsets I",
+      "difficulty": "medium",
+      "order": 193,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Subsets I",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p868",
+      "topicId": "recursion-patternwise",
+      "name": "Subsets II",
+      "difficulty": "medium",
+      "order": 194,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Subsets II",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p866",
+      "topicId": "recursion-patternwise",
+      "name": "Combination Sum III",
+      "difficulty": "medium",
+      "order": 195,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Combination Sum III",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p875",
+      "topicId": "recursion-patternwise",
+      "name": "Letter Combinations of a Phone Number",
+      "difficulty": "hard",
+      "order": 196,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Letter Combinations of a Phone Number",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p871",
+      "topicId": "recursion-patternwise",
+      "name": "Palindrome partitioning",
+      "difficulty": "hard",
+      "order": 197,
+      "patterns": [
+        "Greedy",
+        "Recursion",
+        "Two Pointer"
+      ],
+      "title": "Palindrome partitioning",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p874",
+      "topicId": "recursion-patternwise",
+      "name": "Word Search",
+      "difficulty": "hard",
+      "order": 198,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Word Search",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p870",
+      "topicId": "recursion-patternwise",
+      "name": "N Queen",
+      "difficulty": "hard",
+      "order": 199,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "N Queen",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p872",
+      "topicId": "recursion-patternwise",
+      "name": "Rat in a Maze",
+      "difficulty": "hard",
+      "order": 200,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Rat in a Maze",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p4",
+      "topicId": "recursion-patternwise",
+      "name": "Word Break",
+      "difficulty": "medium",
+      "order": 201,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Word Break",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p869",
+      "topicId": "recursion-patternwise",
+      "name": "M Coloring Problem",
+      "difficulty": "hard",
+      "order": 202,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "M Coloring Problem",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p873",
+      "topicId": "recursion-patternwise",
+      "name": "Sudoku Solver",
+      "difficulty": "hard",
+      "order": 203,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Sudoku Solver",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p3",
+      "topicId": "recursion-patternwise",
+      "name": "Expression Add Operators",
+      "difficulty": "hard",
+      "order": 204,
+      "patterns": [
+        "Recursion"
+      ],
+      "title": "Expression Add Operators",
+      "topic": "recursion-patternwise"
+    },
+    {
+      "id": "p1155",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "Introduction to Bits and Tricks",
+      "difficulty": "easy",
+      "order": 205,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "Introduction to Bits and Tricks",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p177",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "Check if the i-th bit is Set or Not",
+      "difficulty": "easy",
+      "order": 206,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "Check if the i-th bit is Set or Not",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p171",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "Check if a Number is Odd or Not",
+      "difficulty": "easy",
+      "order": 207,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "Check if a Number is Odd or Not",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p172",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "Check if a Number is Power of 2 or Not",
+      "difficulty": "easy",
+      "order": 208,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "Check if a Number is Power of 2 or Not",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p243",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "Count the Number of Set Bits",
+      "difficulty": "easy",
+      "order": 209,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "Count the Number of Set Bits",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p2410",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "Set/Unset the rightmost unset bit",
+      "difficulty": "easy",
+      "order": 210,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "Set/Unset the rightmost unset bit",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p1005",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "Swap Two Numbers",
+      "difficulty": "easy",
+      "order": 211,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "Swap Two Numbers",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p140",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "Divide two numbers without multiplication and division",
+      "difficulty": "medium",
+      "order": 212,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "Divide two numbers without multiplication and division",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p141",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "Minimum Bit Flips to Convert Number",
+      "difficulty": "medium",
+      "order": 213,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "Minimum Bit Flips to Convert Number",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p143",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "Single Number - I",
+      "difficulty": "medium",
+      "order": 214,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "Single Number - I",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p142",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "Power Set Bit Manipulation",
+      "difficulty": "medium",
+      "order": 215,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "Power Set Bit Manipulation",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p146",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "XOR of numbers in a given range",
+      "difficulty": "medium",
+      "order": 216,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "XOR of numbers in a given range",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p145",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "Single Number - III",
+      "difficulty": "medium",
+      "order": 217,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "Single Number - III",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p2853",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "Print Prime Factors of a Number",
+      "difficulty": "hard",
+      "order": 218,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "Print Prime Factors of a Number",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p370",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "Divisors of a Number",
+      "difficulty": "easy",
+      "order": 219,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "Divisors of a Number",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p651",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "Count primes in range L to R",
+      "difficulty": "hard",
+      "order": 220,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "Count primes in range L to R",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p652",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "Prime factorisation of a Number",
+      "difficulty": "hard",
+      "order": 221,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "Prime factorisation of a Number",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p877",
+      "topicId": "bit-manipulation-concepts-problems",
+      "name": "Pow(x,n)",
+      "difficulty": "easy",
+      "order": 222,
+      "patterns": [
+        "Bit Manipulation"
+      ],
+      "title": "Pow(x,n)",
+      "topic": "bit-manipulation-concepts-problems"
+    },
+    {
+      "id": "p390",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Implement Stack using Arrays",
+      "difficulty": "easy",
+      "order": 223,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Implement Stack using Arrays",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p387",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Implement Queue using Arrays",
+      "difficulty": "easy",
+      "order": 224,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Implement Queue using Arrays",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p392",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Implement Stack using Queue",
+      "difficulty": "easy",
+      "order": 225,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Implement Stack using Queue",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p389",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Implement Queue using Stack",
+      "difficulty": "easy",
+      "order": 226,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Implement Queue using Stack",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p391",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Implement stack using Linkedlist",
+      "difficulty": "easy",
+      "order": 227,
+      "patterns": [
+        "DP",
+        "Stack & Queue"
+      ],
+      "title": "Implement stack using Linkedlist",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p388",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Implement queue using Linkedlist",
+      "difficulty": "easy",
+      "order": 228,
+      "patterns": [
+        "DP",
+        "Stack & Queue"
+      ],
+      "title": "Implement queue using Linkedlist",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p966",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Balanced Paranthesis",
+      "difficulty": "easy",
+      "order": 229,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Balanced Paranthesis",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p958",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Implement Min Stack",
+      "difficulty": "hard",
+      "order": 230,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Implement Min Stack",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p586",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Infix to Postfix Conversion",
+      "difficulty": "medium",
+      "order": 231,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Infix to Postfix Conversion",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p848",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Prefix to Infix Conversion",
+      "difficulty": "medium",
+      "order": 232,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Prefix to Infix Conversion",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p849",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Prefix to Postfix Conversion",
+      "difficulty": "medium",
+      "order": 233,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Prefix to Postfix Conversion",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p825",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Postfix to Prefix Conversion",
+      "difficulty": "medium",
+      "order": 234,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Postfix to Prefix Conversion",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p824",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Postfix to Infix Conversion",
+      "difficulty": "easy",
+      "order": 235,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Postfix to Infix Conversion",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p587",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Infix to Prefix Conversion",
+      "difficulty": "medium",
+      "order": 236,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Infix to Prefix Conversion",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p968",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Next Greater Element",
+      "difficulty": "medium",
+      "order": 237,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Next Greater Element",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p969",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Next Greater Element - 2",
+      "difficulty": "medium",
+      "order": 238,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Next Greater Element - 2",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p768",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Next Smaller Element",
+      "difficulty": "medium",
+      "order": 239,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Next Smaller Element",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p285",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Number of Greater Elements to the Right",
+      "difficulty": "easy",
+      "order": 240,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Number of Greater Elements to the Right",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p965",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Trapping Rainwater",
+      "difficulty": "hard",
+      "order": 241,
+      "patterns": [
+        "Stack & Queue",
+        "Two Pointer"
+      ],
+      "title": "Trapping Rainwater",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p971",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Sum of Subarray Minimums",
+      "difficulty": "medium",
+      "order": 242,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Sum of Subarray Minimums",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p967",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Asteroid Collision",
+      "difficulty": "medium",
+      "order": 243,
+      "patterns": [
+        "DP",
+        "Stack & Queue"
+      ],
+      "title": "Asteroid Collision",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p972",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Sum of Subarray Ranges",
+      "difficulty": "medium",
+      "order": 244,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Sum of Subarray Ranges",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p970",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Remove K Digits",
+      "difficulty": "medium",
+      "order": 245,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Remove K Digits",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p959",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Largest rectangle in a histogram",
+      "difficulty": "hard",
+      "order": 246,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Largest rectangle in a histogram",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p962",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Maximum Rectangles",
+      "difficulty": "hard",
+      "order": 247,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Maximum Rectangles",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p963",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Sliding Window Maximum",
+      "difficulty": "hard",
+      "order": 248,
+      "patterns": [
+        "Sliding Window",
+        "Stack & Queue"
+      ],
+      "title": "Sliding Window Maximum",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p964",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Stock span problem",
+      "difficulty": "hard",
+      "order": 249,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Stock span problem",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p957",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "Celebrity Problem",
+      "difficulty": "hard",
+      "order": 250,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "Celebrity Problem",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p961",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "LRU Cache",
+      "difficulty": "medium",
+      "order": 251,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "LRU Cache",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p960",
+      "topicId": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation",
+      "name": "LFU Cache",
+      "difficulty": "hard",
+      "order": 252,
+      "patterns": [
+        "Stack & Queue"
+      ],
+      "title": "LFU Cache",
+      "topic": "stack-and-queues-learning-pre-in-post-fix-monotonic-stack-implementation"
+    },
+    {
+      "id": "p2857",
+      "topicId": "sliding-window-two-pointer-combined-problems",
+      "name": "Longest Substring Without Repeating Characters",
+      "difficulty": "medium",
+      "order": 253,
+      "patterns": [
+        "Sliding Window",
+        "Tree",
+        "Two Pointer"
+      ],
+      "title": "Longest Substring Without Repeating Characters",
+      "topic": "sliding-window-two-pointer-combined-problems"
+    },
+    {
+      "id": "p930",
+      "topicId": "sliding-window-two-pointer-combined-problems",
+      "name": "Max Consecutive Ones III",
+      "difficulty": "medium",
+      "order": 254,
+      "patterns": [
+        "Sliding Window",
+        "Two Pointer"
+      ],
+      "title": "Max Consecutive Ones III",
+      "topic": "sliding-window-two-pointer-combined-problems"
+    },
+    {
+      "id": "p926",
+      "topicId": "sliding-window-two-pointer-combined-problems",
+      "name": "Fruit Into Baskets",
+      "difficulty": "medium",
+      "order": 255,
+      "patterns": [
+        "Sliding Window",
+        "Two Pointer"
+      ],
+      "title": "Fruit Into Baskets",
+      "topic": "sliding-window-two-pointer-combined-problems"
+    },
+    {
+      "id": "p927",
+      "topicId": "sliding-window-two-pointer-combined-problems",
+      "name": "Longest Repeating Character Replacement",
+      "difficulty": "hard",
+      "order": 256,
+      "patterns": [
+        "Sliding Window",
+        "Two Pointer"
+      ],
+      "title": "Longest Repeating Character Replacement",
+      "topic": "sliding-window-two-pointer-combined-problems"
+    },
+    {
+      "id": "p923",
+      "topicId": "sliding-window-two-pointer-combined-problems",
+      "name": "Binary Subarrays With Sum",
+      "difficulty": "hard",
+      "order": 257,
+      "patterns": [
+        "Sliding Window",
+        "Two Pointer"
+      ],
+      "title": "Binary Subarrays With Sum",
+      "topic": "sliding-window-two-pointer-combined-problems"
+    },
+    {
+      "id": "p924",
+      "topicId": "sliding-window-two-pointer-combined-problems",
+      "name": "Count number of Nice subarrays",
+      "difficulty": "hard",
+      "order": 258,
+      "patterns": [
+        "Sliding Window",
+        "Two Pointer"
+      ],
+      "title": "Count number of Nice subarrays",
+      "topic": "sliding-window-two-pointer-combined-problems"
+    },
+    {
+      "id": "p925",
+      "topicId": "sliding-window-two-pointer-combined-problems",
+      "name": "Number of Substrings Containing All Three Characters",
+      "difficulty": "hard",
+      "order": 259,
+      "patterns": [
+        "Sliding Window",
+        "Tree",
+        "Two Pointer"
+      ],
+      "title": "Number of Substrings Containing All Three Characters",
+      "topic": "sliding-window-two-pointer-combined-problems"
+    },
+    {
+      "id": "p922",
+      "topicId": "sliding-window-two-pointer-combined-problems",
+      "name": "Maximum Points You Can Obtain from Cards",
+      "difficulty": "medium",
+      "order": 260,
+      "patterns": [
+        "Sliding Window",
+        "Two Pointer"
+      ],
+      "title": "Maximum Points You Can Obtain from Cards",
+      "topic": "sliding-window-two-pointer-combined-problems"
+    },
+    {
+      "id": "p928",
+      "topicId": "sliding-window-two-pointer-combined-problems",
+      "name": "Longest Substring With At Most K Distinct Characters",
+      "difficulty": "hard",
+      "order": 261,
+      "patterns": [
+        "Sliding Window",
+        "Tree",
+        "Two Pointer"
+      ],
+      "title": "Longest Substring With At Most K Distinct Characters",
+      "topic": "sliding-window-two-pointer-combined-problems"
+    },
+    {
+      "id": "p988",
+      "topicId": "sliding-window-two-pointer-combined-problems",
+      "name": "Subarrays with K Different Integers",
+      "difficulty": "medium",
+      "order": 262,
+      "patterns": [
+        "Sliding Window",
+        "Two Pointer"
+      ],
+      "title": "Subarrays with K Different Integers",
+      "topic": "sliding-window-two-pointer-combined-problems"
+    },
+    {
+      "id": "p931",
+      "topicId": "sliding-window-two-pointer-combined-problems",
+      "name": "Minimum Window Substring",
+      "difficulty": "hard",
+      "order": 263,
+      "patterns": [
+        "Sliding Window",
+        "Tree",
+        "Two Pointer"
+      ],
+      "title": "Minimum Window Substring",
+      "topic": "sliding-window-two-pointer-combined-problems"
+    },
+    {
+      "id": "p754",
+      "topicId": "sliding-window-two-pointer-combined-problems",
+      "name": "Minimum Window Subsequence",
+      "difficulty": "hard",
+      "order": 264,
+      "patterns": [
+        "Sliding Window",
+        "Two Pointer"
+      ],
+      "title": "Minimum Window Subsequence",
+      "topic": "sliding-window-two-pointer-combined-problems"
+    },
+    {
+      "id": "p1223",
+      "topicId": "heaps-learning-medium-hard-problems",
+      "name": "Heaps (Theory Video)",
+      "difficulty": "easy",
+      "order": 265,
+      "patterns": [
+        "Heap"
+      ],
+      "title": "Heaps (Theory Video)",
+      "topic": "heaps-learning-medium-hard-problems"
+    },
+    {
+      "id": "p576",
+      "topicId": "heaps-learning-medium-hard-problems",
+      "name": "Implement Min Heap",
+      "difficulty": "medium",
+      "order": 266,
+      "patterns": [
+        "Heap"
+      ],
+      "title": "Implement Min Heap",
+      "topic": "heaps-learning-medium-hard-problems"
+    },
+    {
+      "id": "p571",
+      "topicId": "heaps-learning-medium-hard-problems",
+      "name": "Check if an array represents a min heap",
+      "difficulty": "medium",
+      "order": 267,
+      "patterns": [
+        "Heap"
+      ],
+      "title": "Check if an array represents a min heap",
+      "topic": "heaps-learning-medium-hard-problems"
+    },
+    {
+      "id": "p572",
+      "topicId": "heaps-learning-medium-hard-problems",
+      "name": "Convert Min Heap to Max Heap",
+      "difficulty": "medium",
+      "order": 268,
+      "patterns": [
+        "Heap"
+      ],
+      "title": "Convert Min Heap to Max Heap",
+      "topic": "heaps-learning-medium-hard-problems"
+    },
+    {
+      "id": "p578",
+      "topicId": "heaps-learning-medium-hard-problems",
+      "name": "K-th Largest element in an array",
+      "difficulty": "medium",
+      "order": 269,
+      "patterns": [
+        "Heap"
+      ],
+      "title": "K-th Largest element in an array",
+      "topic": "heaps-learning-medium-hard-problems"
+    },
+    {
+      "id": "p2840",
+      "topicId": "heaps-learning-medium-hard-problems",
+      "name": "Kth smallest element in an array [use priority queue]",
+      "difficulty": "medium",
+      "order": 270,
+      "patterns": [
+        "Heap",
+        "Stack & Queue"
+      ],
+      "title": "Kth smallest element in an array [use priority queue]",
+      "topic": "heaps-learning-medium-hard-problems"
+    },
+    {
+      "id": "p2409",
+      "topicId": "heaps-learning-medium-hard-problems",
+      "name": "Sort K sorted array",
+      "difficulty": "easy",
+      "order": 271,
+      "patterns": [
+        "Heap",
+        "Sorting"
+      ],
+      "title": "Sort K sorted array",
+      "topic": "heaps-learning-medium-hard-problems"
+    },
+    {
+      "id": "p569",
+      "topicId": "heaps-learning-medium-hard-problems",
+      "name": "Merge K sorted Lists",
+      "difficulty": "hard",
+      "order": 272,
+      "patterns": [
+        "DP",
+        "Heap",
+        "Linked List",
+        "Sorting"
+      ],
+      "title": "Merge K sorted Lists",
+      "topic": "heaps-learning-medium-hard-problems"
+    },
+    {
+      "id": "p898",
+      "topicId": "heaps-learning-medium-hard-problems",
+      "name": "Replace Elements by Their Rank",
+      "difficulty": "easy",
+      "order": 273,
+      "patterns": [
+        "Heap"
+      ],
+      "title": "Replace Elements by Their Rank",
+      "topic": "heaps-learning-medium-hard-problems"
+    },
+    {
+      "id": "p1008",
+      "topicId": "heaps-learning-medium-hard-problems",
+      "name": "Task Scheduler",
+      "difficulty": "medium",
+      "order": 274,
+      "patterns": [
+        "Heap"
+      ],
+      "title": "Task Scheduler",
+      "topic": "heaps-learning-medium-hard-problems"
+    },
+    {
+      "id": "p556",
+      "topicId": "heaps-learning-medium-hard-problems",
+      "name": "Hand of Straights",
+      "difficulty": "medium",
+      "order": 275,
+      "patterns": [
+        "Heap"
+      ],
+      "title": "Hand of Straights",
+      "topic": "heaps-learning-medium-hard-problems"
+    },
+    {
+      "id": "p565",
+      "topicId": "heaps-learning-medium-hard-problems",
+      "name": "Design Twitter",
+      "difficulty": "medium",
+      "order": 276,
+      "patterns": [
+        "Heap"
+      ],
+      "title": "Design Twitter",
+      "topic": "heaps-learning-medium-hard-problems"
+    },
+    {
+      "id": "p755",
+      "topicId": "heaps-learning-medium-hard-problems",
+      "name": "Minimum Cost to Connect Sticks",
+      "difficulty": "medium",
+      "order": 277,
+      "patterns": [
+        "Heap"
+      ],
+      "title": "Minimum Cost to Connect Sticks",
+      "topic": "heaps-learning-medium-hard-problems"
+    },
+    {
+      "id": "p2838",
+      "topicId": "heaps-learning-medium-hard-problems",
+      "name": "Kth largest element in a stream of running integers",
+      "difficulty": "hard",
+      "order": 278,
+      "patterns": [
+        "Heap",
+        "Sorting"
+      ],
+      "title": "Kth largest element in a stream of running integers",
+      "topic": "heaps-learning-medium-hard-problems"
+    },
+    {
+      "id": "p568",
+      "topicId": "heaps-learning-medium-hard-problems",
+      "name": "Maximum Sum Combination",
+      "difficulty": "hard",
+      "order": 279,
+      "patterns": [
+        "Heap",
+        "Recursion"
+      ],
+      "title": "Maximum Sum Combination",
+      "topic": "heaps-learning-medium-hard-problems"
+    },
+    {
+      "id": "p566",
+      "topicId": "heaps-learning-medium-hard-problems",
+      "name": "Find Median from Data Stream",
+      "difficulty": "hard",
+      "order": 280,
+      "patterns": [
+        "Heap"
+      ],
+      "title": "Find Median from Data Stream",
+      "topic": "heaps-learning-medium-hard-problems"
+    },
+    {
+      "id": "p1018",
+      "topicId": "heaps-learning-medium-hard-problems",
+      "name": "Top K Frequent Elements",
+      "difficulty": "medium",
+      "order": 281,
+      "patterns": [
+        "Heap"
+      ],
+      "title": "Top K Frequent Elements",
+      "topic": "heaps-learning-medium-hard-problems"
+    },
+    {
+      "id": "p2834",
+      "topicId": "greedy-algorithms-easy-medium-hard",
+      "name": "Assign Cookies",
+      "difficulty": "easy",
+      "order": 282,
+      "patterns": [
+        "Greedy"
+      ],
+      "title": "Assign Cookies",
+      "topic": "greedy-algorithms-easy-medium-hard"
+    },
+    {
+      "id": "p489",
+      "topicId": "greedy-algorithms-easy-medium-hard",
+      "name": "Fractional Knapsack",
+      "difficulty": "medium",
+      "order": 283,
+      "patterns": [
+        "DP",
+        "Greedy"
+      ],
+      "title": "Fractional Knapsack",
+      "topic": "greedy-algorithms-easy-medium-hard"
+    },
+    {
+      "id": "p543",
+      "topicId": "greedy-algorithms-easy-medium-hard",
+      "name": "Lemonade Change",
+      "difficulty": "easy",
+      "order": 284,
+      "patterns": [
+        "Greedy"
+      ],
+      "title": "Lemonade Change",
+      "topic": "greedy-algorithms-easy-medium-hard"
+    },
+    {
+      "id": "p545",
+      "topicId": "greedy-algorithms-easy-medium-hard",
+      "name": "Valid Paranthesis Checker",
+      "difficulty": "hard",
+      "order": 285,
+      "patterns": [
+        "Greedy"
+      ],
+      "title": "Valid Paranthesis Checker",
+      "topic": "greedy-algorithms-easy-medium-hard"
+    },
+    {
+      "id": "p549",
+      "topicId": "greedy-algorithms-easy-medium-hard",
+      "name": "N meetings in one room",
+      "difficulty": "medium",
+      "order": 286,
+      "patterns": [
+        "Greedy"
+      ],
+      "title": "N meetings in one room",
+      "topic": "greedy-algorithms-easy-medium-hard"
+    },
+    {
+      "id": "p542",
+      "topicId": "greedy-algorithms-easy-medium-hard",
+      "name": "Jump Game - I",
+      "difficulty": "easy",
+      "order": 287,
+      "patterns": [
+        "Greedy"
+      ],
+      "title": "Jump Game - I",
+      "topic": "greedy-algorithms-easy-medium-hard"
+    },
+    {
+      "id": "p595",
+      "topicId": "greedy-algorithms-easy-medium-hard",
+      "name": "Jump Game II",
+      "difficulty": "medium",
+      "order": 288,
+      "patterns": [
+        "Greedy"
+      ],
+      "title": "Jump Game II",
+      "topic": "greedy-algorithms-easy-medium-hard"
+    },
+    {
+      "id": "p548",
+      "topicId": "greedy-algorithms-easy-medium-hard",
+      "name": "Minimum number of platforms required for a railway",
+      "difficulty": "medium",
+      "order": 289,
+      "patterns": [
+        "Greedy"
+      ],
+      "title": "Minimum number of platforms required for a railway",
+      "topic": "greedy-algorithms-easy-medium-hard"
+    },
+    {
+      "id": "p547",
+      "topicId": "greedy-algorithms-easy-medium-hard",
+      "name": "Job sequencing Problem",
+      "difficulty": "medium",
+      "order": 290,
+      "patterns": [
+        "Greedy"
+      ],
+      "title": "Job sequencing Problem",
+      "topic": "greedy-algorithms-easy-medium-hard"
+    },
+    {
+      "id": "p544",
+      "topicId": "greedy-algorithms-easy-medium-hard",
+      "name": "Candy",
+      "difficulty": "hard",
+      "order": 291,
+      "patterns": [
+        "Greedy"
+      ],
+      "title": "Candy",
+      "topic": "greedy-algorithms-easy-medium-hard"
+    },
+    {
+      "id": "p551",
+      "topicId": "greedy-algorithms-easy-medium-hard",
+      "name": "Shortest Job First",
+      "difficulty": "medium",
+      "order": 292,
+      "patterns": [
+        "Greedy"
+      ],
+      "title": "Shortest Job First",
+      "topic": "greedy-algorithms-easy-medium-hard"
+    },
+    {
+      "id": "p2859",
+      "topicId": "greedy-algorithms-easy-medium-hard",
+      "name": "Program for Least Recently Used (LRU) Page Replacement Algorithm",
+      "difficulty": "medium",
+      "order": 293,
+      "patterns": [
+        "Greedy"
+      ],
+      "title": "Program for Least Recently Used (LRU) Page Replacement Algorithm",
+      "topic": "greedy-algorithms-easy-medium-hard"
+    },
+    {
+      "id": "p546",
+      "topicId": "greedy-algorithms-easy-medium-hard",
+      "name": "Insert Interval",
+      "difficulty": "medium",
+      "order": 294,
+      "patterns": [
+        "Greedy",
+        "Intervals"
+      ],
+      "title": "Insert Interval",
+      "topic": "greedy-algorithms-easy-medium-hard"
+    },
+    {
+      "id": "p712",
+      "topicId": "greedy-algorithms-easy-medium-hard",
+      "name": "Merge Intervals",
+      "difficulty": "medium",
+      "order": 295,
+      "patterns": [
+        "Greedy",
+        "Intervals"
+      ],
+      "title": "Merge Intervals",
+      "topic": "greedy-algorithms-easy-medium-hard"
+    },
+    {
+      "id": "p550",
+      "topicId": "greedy-algorithms-easy-medium-hard",
+      "name": "Non-overlapping Intervals",
+      "difficulty": "medium",
+      "order": 296,
+      "patterns": [
+        "Greedy",
+        "Intervals"
+      ],
+      "title": "Non-overlapping Intervals",
+      "topic": "greedy-algorithms-easy-medium-hard"
+    },
+    {
+      "id": "p2865",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Introduction to Trees",
+      "difficulty": "easy",
+      "order": 297,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Introduction to Trees",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p2864",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Binary Tree Representation in Java",
+      "difficulty": "easy",
+      "order": 298,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Binary Tree Representation in Java",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p136",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Pre, Post, Inorder in one traversal",
+      "difficulty": "easy",
+      "order": 299,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Pre, Post, Inorder in one traversal",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p137",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Preorder Traversal",
+      "difficulty": "easy",
+      "order": 300,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Preorder Traversal",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p2785",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Inorder Traversal of Binary Tree",
+      "difficulty": "easy",
+      "order": 301,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Inorder Traversal of Binary Tree",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p135",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Postorder Traversal",
+      "difficulty": "easy",
+      "order": 302,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Postorder Traversal",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p134",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Level Order Traversal",
+      "difficulty": "easy",
+      "order": 303,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Level Order Traversal",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p2872",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Iterative Preorder Traversal of Binary Tree",
+      "difficulty": "easy",
+      "order": 304,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Iterative Preorder Traversal of Binary Tree",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p2786",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Iterative Inorder Traversal of Binary Tree",
+      "difficulty": "easy",
+      "order": 305,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Iterative Inorder Traversal of Binary Tree",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p2788",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Post-order Traversal of Binary Tree using 2 stack",
+      "difficulty": "easy",
+      "order": 306,
+      "patterns": [
+        "Stack & Queue",
+        "Tree"
+      ],
+      "title": "Post-order Traversal of Binary Tree using 2 stack",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p2787",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Post-order Traversal of Binary Tree using 1 stack",
+      "difficulty": "easy",
+      "order": 307,
+      "patterns": [
+        "Stack & Queue",
+        "Tree"
+      ],
+      "title": "Post-order Traversal of Binary Tree using 1 stack",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p2789",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Preorder, Inorder, and Postorder Traversal in one Traversal",
+      "difficulty": "easy",
+      "order": 308,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Preorder, Inorder, and Postorder Traversal in one Traversal",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p131",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Maximum Depth in BT",
+      "difficulty": "medium",
+      "order": 309,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Maximum Depth in BT",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p127",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Check for balanced binary tree",
+      "difficulty": "medium",
+      "order": 310,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Check for balanced binary tree",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p130",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Diameter of Binary Tree",
+      "difficulty": "easy",
+      "order": 311,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Diameter of Binary Tree",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p132",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Maximum path sum",
+      "difficulty": "medium",
+      "order": 312,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Maximum path sum",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p129",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Check if two trees are identical or not",
+      "difficulty": "medium",
+      "order": 313,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Check if two trees are identical or not",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p126",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Zig Zag or Spiral Traversal",
+      "difficulty": "medium",
+      "order": 314,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Zig Zag or Spiral Traversal",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p116",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Boundary Traversal",
+      "difficulty": "medium",
+      "order": 315,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Boundary Traversal",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p125",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Vertical Order Traversal",
+      "difficulty": "medium",
+      "order": 316,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Vertical Order Traversal",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p124",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Top View of BT",
+      "difficulty": "medium",
+      "order": 317,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Top View of BT",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p115",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Bottom view of BT",
+      "difficulty": "medium",
+      "order": 318,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Bottom view of BT",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p2782",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Right/Left View of Binary Tree",
+      "difficulty": "medium",
+      "order": 319,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Right/Left View of Binary Tree",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p2784",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Symmetric Binary Tree",
+      "difficulty": "medium",
+      "order": 320,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Symmetric Binary Tree",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p122",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Print root to leaf path in BT",
+      "difficulty": "medium",
+      "order": 321,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Print root to leaf path in BT",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p118",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "LCA in BT",
+      "difficulty": "hard",
+      "order": 322,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "LCA in BT",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p119",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Maximum Width of BT",
+      "difficulty": "medium",
+      "order": 323,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Maximum Width of BT",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p185",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Children Sum Property in Binary Tree",
+      "difficulty": "medium",
+      "order": 324,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Children Sum Property in Binary Tree",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p121",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Print all nodes at a distance of K in BT",
+      "difficulty": "hard",
+      "order": 325,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Print all nodes at a distance of K in BT",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p120",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Minimum time taken to burn the BT from a given Node",
+      "difficulty": "hard",
+      "order": 326,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Minimum time taken to burn the BT from a given Node",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p117",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Count total nodes in a complete BT",
+      "difficulty": "easy",
+      "order": 327,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Count total nodes in a complete BT",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p111",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Requirements needed to construct a unique BT",
+      "difficulty": "medium",
+      "order": 328,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Requirements needed to construct a unique BT",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p110",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Construct a BT from Preorder and Inorder",
+      "difficulty": "hard",
+      "order": 329,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Construct a BT from Preorder and Inorder",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p2781",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Construct the Binary Tree from Postorder and Inorder Traversal",
+      "difficulty": "hard",
+      "order": 330,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Construct the Binary Tree from Postorder and Inorder Traversal",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p112",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Serialize and De-serialize BT",
+      "difficulty": "hard",
+      "order": 331,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Serialize and De-serialize BT",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p2791",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Morris Preorder Traversal of a Binary Tree",
+      "difficulty": "hard",
+      "order": 332,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Morris Preorder Traversal of a Binary Tree",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p2792",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Morris Inorder Traversal of a Binary Tree",
+      "difficulty": "hard",
+      "order": 333,
+      "patterns": [
+        "Tree"
+      ],
+      "title": "Morris Inorder Traversal of a Binary Tree",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p486",
+      "topicId": "binary-trees-traversals-medium-and-hard-problems",
+      "name": "Flatten Binary Tree to Linked List",
+      "difficulty": "medium",
+      "order": 334,
+      "patterns": [
+        "DP",
+        "Linked List",
+        "Tree"
+      ],
+      "title": "Flatten Binary Tree to Linked List",
+      "topic": "binary-trees-traversals-medium-and-hard-problems"
+    },
+    {
+      "id": "p1153",
+      "topicId": "binary-search-trees-concept-and-problems",
+      "name": "Introduction to BST",
+      "difficulty": "easy",
+      "order": 335,
+      "patterns": [
+        "Binary Search",
+        "Tree"
+      ],
+      "title": "Introduction to BST",
+      "topic": "binary-search-trees-concept-and-problems"
+    },
+    {
+      "id": "p2780",
+      "topicId": "binary-search-trees-concept-and-problems",
+      "name": "Search in a Binary Search Tree",
+      "difficulty": "easy",
+      "order": 336,
+      "patterns": [
+        "Binary Search",
+        "Tree"
+      ],
+      "title": "Search in a Binary Search Tree",
+      "topic": "binary-search-trees-concept-and-problems"
+    },
+    {
+      "id": "p2398",
+      "topicId": "binary-search-trees-concept-and-problems",
+      "name": "Find Min/Max in BST",
+      "difficulty": "easy",
+      "order": 337,
+      "patterns": [
+        "Binary Search",
+        "Tree"
+      ],
+      "title": "Find Min/Max in BST",
+      "topic": "binary-search-trees-concept-and-problems"
+    },
+    {
+      "id": "p107",
+      "topicId": "binary-search-trees-concept-and-problems",
+      "name": "Floor and Ceil in a BST",
+      "difficulty": "easy",
+      "order": 338,
+      "patterns": [
+        "Binary Search",
+        "Tree"
+      ],
+      "title": "Floor and Ceil in a BST",
+      "topic": "binary-search-trees-concept-and-problems"
+    },
+    {
+      "id": "p2778",
+      "topicId": "binary-search-trees-concept-and-problems",
+      "name": "Floor in a Binary Search Tree",
+      "difficulty": "easy",
+      "order": 339,
+      "patterns": [
+        "Binary Search",
+        "Tree"
+      ],
+      "title": "Floor in a Binary Search Tree",
+      "topic": "binary-search-trees-concept-and-problems"
+    },
+    {
+      "id": "p104",
+      "topicId": "binary-search-trees-concept-and-problems",
+      "name": "Insert a given node in BST",
+      "difficulty": "medium",
+      "order": 340,
+      "patterns": [
+        "Binary Search",
+        "Tree"
+      ],
+      "title": "Insert a given node in BST",
+      "topic": "binary-search-trees-concept-and-problems"
+    },
+    {
+      "id": "p102",
+      "topicId": "binary-search-trees-concept-and-problems",
+      "name": "Delete a node in BST",
+      "difficulty": "medium",
+      "order": 341,
+      "patterns": [
+        "Binary Search",
+        "Tree"
+      ],
+      "title": "Delete a node in BST",
+      "topic": "binary-search-trees-concept-and-problems"
+    },
+    {
+      "id": "p105",
+      "topicId": "binary-search-trees-concept-and-problems",
+      "name": "Kth Smallest and Largest element in BST",
+      "difficulty": "medium",
+      "order": 342,
+      "patterns": [
+        "Binary Search",
+        "Tree"
+      ],
+      "title": "Kth Smallest and Largest element in BST",
+      "topic": "binary-search-trees-concept-and-problems"
+    },
+    {
+      "id": "p100",
+      "topicId": "binary-search-trees-concept-and-problems",
+      "name": "Check if a tree is a BST or not",
+      "difficulty": "medium",
+      "order": 343,
+      "patterns": [
+        "Binary Search",
+        "Tree"
+      ],
+      "title": "Check if a tree is a BST or not",
+      "topic": "binary-search-trees-concept-and-problems"
+    },
+    {
+      "id": "p106",
+      "topicId": "binary-search-trees-concept-and-problems",
+      "name": "LCA in BST",
+      "difficulty": "medium",
+      "order": 344,
+      "patterns": [
+        "Binary Search",
+        "Tree"
+      ],
+      "title": "LCA in BST",
+      "topic": "binary-search-trees-concept-and-problems"
+    },
+    {
+      "id": "p101",
+      "topicId": "binary-search-trees-concept-and-problems",
+      "name": "Construct a BST from a preorder traversal",
+      "difficulty": "medium",
+      "order": 345,
+      "patterns": [
+        "Binary Search",
+        "Tree"
+      ],
+      "title": "Construct a BST from a preorder traversal",
+      "topic": "binary-search-trees-concept-and-problems"
+    },
+    {
+      "id": "p2775",
+      "topicId": "binary-search-trees-concept-and-problems",
+      "name": "Inorder Successor/Predecessor in BST",
+      "difficulty": "medium",
+      "order": 346,
+      "patterns": [
+        "Binary Search",
+        "Tree"
+      ],
+      "title": "Inorder Successor/Predecessor in BST",
+      "topic": "binary-search-trees-concept-and-problems"
+    },
+    {
+      "id": "p2772",
+      "topicId": "binary-search-trees-concept-and-problems",
+      "name": "Merge 2 BST's",
+      "difficulty": "hard",
+      "order": 347,
+      "patterns": [
+        "Binary Search",
+        "Tree"
+      ],
+      "title": "Merge 2 BST's",
+      "topic": "binary-search-trees-concept-and-problems"
+    },
+    {
+      "id": "p2774",
+      "topicId": "binary-search-trees-concept-and-problems",
+      "name": "Two Sum In BST | Check if there exists a pair with Sum K",
+      "difficulty": "hard",
+      "order": 348,
+      "patterns": [
+        "Binary Search",
+        "Tree",
+        "Two Pointer"
+      ],
+      "title": "Two Sum In BST | Check if there exists a pair with Sum K",
+      "topic": "binary-search-trees-concept-and-problems"
+    },
+    {
+      "id": "p97",
+      "topicId": "binary-search-trees-concept-and-problems",
+      "name": "Correct BST with two nodes swapped",
+      "difficulty": "hard",
+      "order": 349,
+      "patterns": [
+        "Binary Search",
+        "Tree"
+      ],
+      "title": "Correct BST with two nodes swapped",
+      "topic": "binary-search-trees-concept-and-problems"
+    },
+    {
+      "id": "p98",
+      "topicId": "binary-search-trees-concept-and-problems",
+      "name": "Largest BST in Binary Tree",
+      "difficulty": "hard",
+      "order": 350,
+      "patterns": [
+        "Binary Search",
+        "Tree"
+      ],
+      "title": "Largest BST in Binary Tree",
+      "topic": "binary-search-trees-concept-and-problems"
+    },
+    {
+      "id": "p1222",
+      "topicId": "graphs-concepts-problems",
+      "name": "Introduction to Graph",
+      "difficulty": "easy",
+      "order": 351,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Introduction to Graph",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p2870",
+      "topicId": "graphs-concepts-problems",
+      "name": "Graph Representation | C++",
+      "difficulty": "easy",
+      "order": 352,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Graph Representation | C++",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p2871",
+      "topicId": "graphs-concepts-problems",
+      "name": "Graph Representation | Java",
+      "difficulty": "easy",
+      "order": 353,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Graph Representation | Java",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p528",
+      "topicId": "graphs-concepts-problems",
+      "name": "Connected Components",
+      "difficulty": "medium",
+      "order": 354,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Connected Components",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p529",
+      "topicId": "graphs-concepts-problems",
+      "name": "Traversal Techniques",
+      "difficulty": "medium",
+      "order": 355,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Traversal Techniques",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p2831",
+      "topicId": "graphs-concepts-problems",
+      "name": "DFS",
+      "difficulty": "medium",
+      "order": 356,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "DFS",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p535",
+      "topicId": "graphs-concepts-problems",
+      "name": "Number of provinces",
+      "difficulty": "medium",
+      "order": 357,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Number of provinces",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p2830",
+      "topicId": "graphs-concepts-problems",
+      "name": "Connected Components Problem in Matrix",
+      "difficulty": "medium",
+      "order": 358,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Connected Components Problem in Matrix",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p536",
+      "topicId": "graphs-concepts-problems",
+      "name": "Rotten Oranges",
+      "difficulty": "medium",
+      "order": 359,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Rotten Oranges",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p531",
+      "topicId": "graphs-concepts-problems",
+      "name": "Flood fill algorithm",
+      "difficulty": "medium",
+      "order": 360,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Flood fill algorithm",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p2817",
+      "topicId": "graphs-concepts-problems",
+      "name": "Cycle Detection in Undirected Graph (bfs)",
+      "difficulty": "hard",
+      "order": 361,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Cycle Detection in Undirected Graph (bfs)",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p501",
+      "topicId": "graphs-concepts-problems",
+      "name": "Detect a cycle in an undirected graph",
+      "difficulty": "hard",
+      "order": 362,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Detect a cycle in an undirected graph",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p530",
+      "topicId": "graphs-concepts-problems",
+      "name": "Distance of nearest cell having one",
+      "difficulty": "medium",
+      "order": 363,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Distance of nearest cell having one",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p537",
+      "topicId": "graphs-concepts-problems",
+      "name": "Surrounded Regions",
+      "difficulty": "medium",
+      "order": 364,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Surrounded Regions",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p533",
+      "topicId": "graphs-concepts-problems",
+      "name": "Number of enclaves",
+      "difficulty": "medium",
+      "order": 365,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Number of enclaves",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p509",
+      "topicId": "graphs-concepts-problems",
+      "name": "Word ladder I",
+      "difficulty": "hard",
+      "order": 366,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Word ladder I",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p510",
+      "topicId": "graphs-concepts-problems",
+      "name": "Word ladder II",
+      "difficulty": "hard",
+      "order": 367,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Word ladder II",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p534",
+      "topicId": "graphs-concepts-problems",
+      "name": "Number of islands",
+      "difficulty": "medium",
+      "order": 368,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Number of islands",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p2813",
+      "topicId": "graphs-concepts-problems",
+      "name": "Bipartite Graph (DFS)",
+      "difficulty": "hard",
+      "order": 369,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Bipartite Graph (DFS)",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p2814",
+      "topicId": "graphs-concepts-problems",
+      "name": "Cycle Detection in Directed Graph (DFS)",
+      "difficulty": "hard",
+      "order": 370,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Cycle Detection in Directed Graph (DFS)",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p2822",
+      "topicId": "graphs-concepts-problems",
+      "name": "Topo Sort",
+      "difficulty": "hard",
+      "order": 371,
+      "patterns": [
+        "Graph",
+        "Sorting"
+      ],
+      "title": "Topo Sort",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p502",
+      "topicId": "graphs-concepts-problems",
+      "name": "Topological sort or Kahn's algorithm",
+      "difficulty": "hard",
+      "order": 372,
+      "patterns": [
+        "Graph",
+        "Sorting"
+      ],
+      "title": "Topological sort or Kahn's algorithm",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p500",
+      "topicId": "graphs-concepts-problems",
+      "name": "Detect a cycle in a directed graph",
+      "difficulty": "hard",
+      "order": 373,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Detect a cycle in a directed graph",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p504",
+      "topicId": "graphs-concepts-problems",
+      "name": "Course Schedule I",
+      "difficulty": "hard",
+      "order": 374,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Course Schedule I",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p505",
+      "topicId": "graphs-concepts-problems",
+      "name": "Course Schedule II",
+      "difficulty": "medium",
+      "order": 375,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Course Schedule II",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p506",
+      "topicId": "graphs-concepts-problems",
+      "name": "Find eventual safe states",
+      "difficulty": "hard",
+      "order": 376,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Find eventual safe states",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p503",
+      "topicId": "graphs-concepts-problems",
+      "name": "Alien Dictionary",
+      "difficulty": "hard",
+      "order": 377,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Alien Dictionary",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p508",
+      "topicId": "graphs-concepts-problems",
+      "name": "Shortest path in undirected graph with unit weights",
+      "difficulty": "hard",
+      "order": 378,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Shortest path in undirected graph with unit weights",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p507",
+      "topicId": "graphs-concepts-problems",
+      "name": "Shortest path in DAG",
+      "difficulty": "hard",
+      "order": 379,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Shortest path in DAG",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p2827",
+      "topicId": "graphs-concepts-problems",
+      "name": "Djisktra's Algorithm",
+      "difficulty": "hard",
+      "order": 380,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Djisktra's Algorithm",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p2828",
+      "topicId": "graphs-concepts-problems",
+      "name": "Why priority Queue is used in Djisktra's Algorithm",
+      "difficulty": "hard",
+      "order": 381,
+      "patterns": [
+        "Graph",
+        "Heap",
+        "Stack & Queue"
+      ],
+      "title": "Why priority Queue is used in Djisktra's Algorithm",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p527",
+      "topicId": "graphs-concepts-problems",
+      "name": "Shortest Distance in a Binary Maze",
+      "difficulty": "hard",
+      "order": 382,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Shortest Distance in a Binary Maze",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p525",
+      "topicId": "graphs-concepts-problems",
+      "name": "Path with minimum effort",
+      "difficulty": "hard",
+      "order": 383,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Path with minimum effort",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p519",
+      "topicId": "graphs-concepts-problems",
+      "name": "Cheapest flight within K stops",
+      "difficulty": "hard",
+      "order": 384,
+      "patterns": [
+        "Graph",
+        "Heap"
+      ],
+      "title": "Cheapest flight within K stops",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p764",
+      "topicId": "graphs-concepts-problems",
+      "name": "Network Delay Time",
+      "difficulty": "medium",
+      "order": 385,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Network Delay Time",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p524",
+      "topicId": "graphs-concepts-problems",
+      "name": "Number of ways to arrive at destination",
+      "difficulty": "hard",
+      "order": 386,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Number of ways to arrive at destination",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p523",
+      "topicId": "graphs-concepts-problems",
+      "name": "Minimum multiplications to reach end",
+      "difficulty": "hard",
+      "order": 387,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Minimum multiplications to reach end",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p2826",
+      "topicId": "graphs-concepts-problems",
+      "name": "Bellman Ford Algorithm",
+      "difficulty": "hard",
+      "order": 388,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Bellman Ford Algorithm",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p522",
+      "topicId": "graphs-concepts-problems",
+      "name": "Floyd warshall algorithm",
+      "difficulty": "hard",
+      "order": 389,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Floyd warshall algorithm",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p521",
+      "topicId": "graphs-concepts-problems",
+      "name": "Find the city with the smallest number of neighbors",
+      "difficulty": "hard",
+      "order": 390,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Find the city with the smallest number of neighbors",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p1221",
+      "topicId": "graphs-concepts-problems",
+      "name": "MST theory",
+      "difficulty": "easy",
+      "order": 391,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "MST theory",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p2825",
+      "topicId": "graphs-concepts-problems",
+      "name": "Prim's Algorithm",
+      "difficulty": "hard",
+      "order": 392,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Prim's Algorithm",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p516",
+      "topicId": "graphs-concepts-problems",
+      "name": "Disjoint Set",
+      "difficulty": "hard",
+      "order": 393,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Disjoint Set",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p517",
+      "topicId": "graphs-concepts-problems",
+      "name": "Find the MST weight",
+      "difficulty": "hard",
+      "order": 394,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Find the MST weight",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p515",
+      "topicId": "graphs-concepts-problems",
+      "name": "Number of operations to make network connected",
+      "difficulty": "hard",
+      "order": 395,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Number of operations to make network connected",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p513",
+      "topicId": "graphs-concepts-problems",
+      "name": "Most stones removed with same row or column",
+      "difficulty": "medium",
+      "order": 396,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Most stones removed with same row or column",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p511",
+      "topicId": "graphs-concepts-problems",
+      "name": "Accounts merge",
+      "difficulty": "hard",
+      "order": 397,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Accounts merge",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p514",
+      "topicId": "graphs-concepts-problems",
+      "name": "Number of islands II",
+      "difficulty": "hard",
+      "order": 398,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Number of islands II",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p512",
+      "topicId": "graphs-concepts-problems",
+      "name": "Making a large island",
+      "difficulty": "hard",
+      "order": 399,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Making a large island",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p1006",
+      "topicId": "graphs-concepts-problems",
+      "name": "Swim in Rising Water",
+      "difficulty": "medium",
+      "order": 400,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Swim in Rising Water",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p497",
+      "topicId": "graphs-concepts-problems",
+      "name": "Bridges in graph",
+      "difficulty": "hard",
+      "order": 401,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Bridges in graph",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p496",
+      "topicId": "graphs-concepts-problems",
+      "name": "Articulation point in graph",
+      "difficulty": "hard",
+      "order": 402,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Articulation point in graph",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p498",
+      "topicId": "graphs-concepts-problems",
+      "name": "Kosaraju's algorithm",
+      "difficulty": "hard",
+      "order": 403,
+      "patterns": [
+        "Graph"
+      ],
+      "title": "Kosaraju's algorithm",
+      "topic": "graphs-concepts-problems"
+    },
+    {
+      "id": "p1195",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Introduction to DP",
+      "difficulty": "easy",
+      "order": 404,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Introduction to DP",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p287",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Climbing stairs",
+      "difficulty": "medium",
+      "order": 405,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Climbing stairs",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p288",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Frog Jump",
+      "difficulty": "medium",
+      "order": 406,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Frog Jump",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p289",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Frog jump with K distances",
+      "difficulty": "medium",
+      "order": 407,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Frog jump with K distances",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p291",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Maximum sum of non adjacent elements",
+      "difficulty": "medium",
+      "order": 408,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Maximum sum of non adjacent elements",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p290",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "House robber",
+      "difficulty": "medium",
+      "order": 409,
+      "patterns": [
+        "DP"
+      ],
+      "title": "House robber",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p292",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Ninja's training",
+      "difficulty": "medium",
+      "order": 410,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Ninja's training",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p2795",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Grid Unique Paths : DP on Grids (DP8)",
+      "difficulty": "medium",
+      "order": 411,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Grid Unique Paths : DP on Grids (DP8)",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p300",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Unique paths II",
+      "difficulty": "medium",
+      "order": 412,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Unique paths II",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p298",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Minimum Falling Path Sum",
+      "difficulty": "medium",
+      "order": 413,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Minimum Falling Path Sum",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p299",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Triangle",
+      "difficulty": "medium",
+      "order": 414,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Triangle",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p769",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Ninja and his Friends",
+      "difficulty": "medium",
+      "order": 415,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Ninja and his Friends",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p2804",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Subset sum equal to target (DP- 14)",
+      "difficulty": "hard",
+      "order": 416,
+      "patterns": [
+        "DP",
+        "Recursion"
+      ],
+      "title": "Subset sum equal to target (DP- 14)",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p321",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Partition equal subset sum",
+      "difficulty": "hard",
+      "order": 417,
+      "patterns": [
+        "DP",
+        "Greedy",
+        "Recursion"
+      ],
+      "title": "Partition equal subset sum",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p320",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Partition a set into two subsets with minimum absolute sum difference",
+      "difficulty": "hard",
+      "order": 418,
+      "patterns": [
+        "DP",
+        "Greedy",
+        "Recursion"
+      ],
+      "title": "Partition a set into two subsets with minimum absolute sum difference",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p318",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Count subsets with sum K",
+      "difficulty": "hard",
+      "order": 419,
+      "patterns": [
+        "DP",
+        "Recursion"
+      ],
+      "title": "Count subsets with sum K",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p317",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Count partitions with given difference",
+      "difficulty": "hard",
+      "order": 420,
+      "patterns": [
+        "DP",
+        "Greedy"
+      ],
+      "title": "Count partitions with given difference",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p541",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Assign Cookies",
+      "difficulty": "easy",
+      "order": 421,
+      "patterns": [
+        "DP",
+        "Greedy"
+      ],
+      "title": "Assign Cookies",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p2802",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Minimum Coins (DP - 20)",
+      "difficulty": "hard",
+      "order": 422,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Minimum Coins (DP - 20)",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p324",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Target sum",
+      "difficulty": "hard",
+      "order": 423,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Target sum",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p2801",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Coin Change 2 (DP - 22)",
+      "difficulty": "hard",
+      "order": 424,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Coin Change 2 (DP - 22)",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p325",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Unbounded knapsack",
+      "difficulty": "hard",
+      "order": 425,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Unbounded knapsack",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p2803",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Rod Cutting Problem | (DP - 24)",
+      "difficulty": "hard",
+      "order": 426,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Rod Cutting Problem | (DP - 24)",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p308",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Longest common subsequence",
+      "difficulty": "hard",
+      "order": 427,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Longest common subsequence",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p2799",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Print Longest Common Subsequence | (DP - 26)",
+      "difficulty": "hard",
+      "order": 428,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Print Longest Common Subsequence | (DP - 26)",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p309",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Longest common substring",
+      "difficulty": "hard",
+      "order": 429,
+      "patterns": [
+        "DP",
+        "Tree"
+      ],
+      "title": "Longest common substring",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p310",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Longest palindromic subsequence",
+      "difficulty": "hard",
+      "order": 430,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Longest palindromic subsequence",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p2800",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Minimum insertions to make string palindrome | DP-29",
+      "difficulty": "hard",
+      "order": 431,
+      "patterns": [
+        "DP",
+        "Two Pointer"
+      ],
+      "title": "Minimum insertions to make string palindrome | DP-29",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p311",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Minimum insertions or deletions to convert string A to B",
+      "difficulty": "hard",
+      "order": 432,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Minimum insertions or deletions to convert string A to B",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p313",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Shortest common supersequence",
+      "difficulty": "hard",
+      "order": 433,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Shortest common supersequence",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p306",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Distinct subsequences",
+      "difficulty": "hard",
+      "order": 434,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Distinct subsequences",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p307",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Edit distance",
+      "difficulty": "hard",
+      "order": 435,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Edit distance",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p314",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Wildcard matching",
+      "difficulty": "hard",
+      "order": 436,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Wildcard matching",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p301",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Best time to buy and sell stock",
+      "difficulty": "medium",
+      "order": 437,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Best time to buy and sell stock",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p302",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Best time to buy and sell stock II",
+      "difficulty": "medium",
+      "order": 438,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Best time to buy and sell stock II",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p303",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Best time to buy and sell stock III",
+      "difficulty": "medium",
+      "order": 439,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Best time to buy and sell stock III",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p304",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Best time to buy and sell stock IV",
+      "difficulty": "medium",
+      "order": 440,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Best time to buy and sell stock IV",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p56",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Best Time to Buy and Sell Stock with Cooldown",
+      "difficulty": "medium",
+      "order": 441,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p305",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Best time to buy and sell stock with transaction fees",
+      "difficulty": "medium",
+      "order": 442,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Best time to buy and sell stock with transaction fees",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p636",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Longest Increasing Subsequence",
+      "difficulty": "medium",
+      "order": 443,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Longest Increasing Subsequence",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p851",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Print Longest Increasing Subsequence",
+      "difficulty": "medium",
+      "order": 444,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Print Longest Increasing Subsequence",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p2851",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Longest Increasing Subsequence |(DP-43)",
+      "difficulty": "medium",
+      "order": 445,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Longest Increasing Subsequence |(DP-43)",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p603",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Largest Divisible Subset",
+      "difficulty": "medium",
+      "order": 446,
+      "patterns": [
+        "DP",
+        "Recursion"
+      ],
+      "title": "Largest Divisible Subset",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p640",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Longest String Chain",
+      "difficulty": "medium",
+      "order": 447,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Longest String Chain",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p633",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Longest Bitonic Subsequence",
+      "difficulty": "medium",
+      "order": 448,
+      "patterns": [
+        "Bit Manipulation",
+        "DP"
+      ],
+      "title": "Longest Bitonic Subsequence",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p780",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Number of Longest Increasing Subsequences",
+      "difficulty": "medium",
+      "order": 449,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Number of Longest Increasing Subsequences",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p327",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Matrix chain multiplication",
+      "difficulty": "hard",
+      "order": 450,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Matrix chain multiplication",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p2806",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Matrix Chain Multiplication | Bottom-Up|(DP-49)",
+      "difficulty": "hard",
+      "order": 451,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Matrix Chain Multiplication | Bottom-Up|(DP-49)",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p328",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Minimum cost to cut the stick",
+      "difficulty": "hard",
+      "order": 452,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Minimum cost to cut the stick",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p326",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Burst balloons",
+      "difficulty": "hard",
+      "order": 453,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Burst balloons",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p276",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Different Ways to Evaluate a Boolean Expression",
+      "difficulty": "medium",
+      "order": 454,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Different Ways to Evaluate a Boolean Expression",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p329",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Palindrome partitioning II",
+      "difficulty": "hard",
+      "order": 455,
+      "patterns": [
+        "DP",
+        "Greedy",
+        "Two Pointer"
+      ],
+      "title": "Palindrome partitioning II",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p810",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Partition Array for Maximum Sum",
+      "difficulty": "medium",
+      "order": 456,
+      "patterns": [
+        "DP",
+        "Greedy"
+      ],
+      "title": "Partition Array for Maximum Sum",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p2860",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Maximum Rectangle Area with all 1's|(DP-55)",
+      "difficulty": "hard",
+      "order": 457,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Maximum Rectangle Area with all 1's|(DP-55)",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p2395",
+      "topicId": "dynamic-programming-patterns-and-problems",
+      "name": "Count Square Submatrices with All Ones|(DP-56)",
+      "difficulty": "easy",
+      "order": 458,
+      "patterns": [
+        "DP"
+      ],
+      "title": "Count Square Submatrices with All Ones|(DP-56)",
+      "topic": "dynamic-programming-patterns-and-problems"
+    },
+    {
+      "id": "p1028",
+      "topicId": "tries",
+      "name": "Trie Implementation and Operations",
+      "difficulty": "hard",
+      "order": 459,
+      "patterns": [
+        "Trie"
+      ],
+      "title": "Trie Implementation and Operations",
+      "topic": "tries"
+    },
+    {
+      "id": "p1027",
+      "topicId": "tries",
+      "name": "Trie Implementation and Advanced Operations",
+      "difficulty": "hard",
+      "order": 460,
+      "patterns": [
+        "Trie"
+      ],
+      "title": "Trie Implementation and Advanced Operations",
+      "topic": "tries"
+    },
+    {
+      "id": "p1023",
+      "topicId": "tries",
+      "name": "Longest Word with All Prefixes",
+      "difficulty": "medium",
+      "order": 461,
+      "patterns": [
+        "Trie"
+      ],
+      "title": "Longest Word with All Prefixes",
+      "topic": "tries"
+    },
+    {
+      "id": "p1026",
+      "topicId": "tries",
+      "name": "Number of distinct substrings in a string",
+      "difficulty": "medium",
+      "order": 462,
+      "patterns": [
+        "Tree",
+        "Trie"
+      ],
+      "title": "Number of distinct substrings in a string",
+      "topic": "tries"
+    },
+    {
+      "id": "p2390",
+      "topicId": "tries",
+      "name": "Bit PreRequisites for TRIE Problems",
+      "difficulty": "easy",
+      "order": 463,
+      "patterns": [
+        "Bit Manipulation",
+        "Trie"
+      ],
+      "title": "Bit PreRequisites for TRIE Problems",
+      "topic": "tries"
+    },
+    {
+      "id": "p1024",
+      "topicId": "tries",
+      "name": "Maximum XOR of two numbers in an array",
+      "difficulty": "hard",
+      "order": 464,
+      "patterns": [
+        "Bit Manipulation",
+        "Trie"
+      ],
+      "title": "Maximum XOR of two numbers in an array",
+      "topic": "tries"
+    },
+    {
+      "id": "p1025",
+      "topicId": "tries",
+      "name": "Maximum Xor with an element from an array",
+      "difficulty": "hard",
+      "order": 465,
+      "patterns": [
+        "Bit Manipulation",
+        "Trie"
+      ],
+      "title": "Maximum Xor with an element from an array",
+      "topic": "tries"
+    },
+    {
+      "id": "p983",
+      "topicId": "strings",
+      "name": "Minimum number of bracket reversals to make an expression balanced",
+      "difficulty": "hard",
+      "order": 466,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "Minimum number of bracket reversals to make an expression balanced",
+      "topic": "strings"
+    },
+    {
+      "id": "p982",
+      "topicId": "strings",
+      "name": "Count and say",
+      "difficulty": "hard",
+      "order": 467,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "Count and say",
+      "topic": "strings"
+    },
+    {
+      "id": "p2399",
+      "topicId": "strings",
+      "name": "Hashing In Strings | Theory",
+      "difficulty": "easy",
+      "order": 468,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "Hashing In Strings | Theory",
+      "topic": "strings"
+    },
+    {
+      "id": "p979",
+      "topicId": "strings",
+      "name": "Rabin Karp Algorithm",
+      "difficulty": "hard",
+      "order": 469,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "Rabin Karp Algorithm",
+      "topic": "strings"
+    },
+    {
+      "id": "p981",
+      "topicId": "strings",
+      "name": "Z function",
+      "difficulty": "hard",
+      "order": 470,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "Z function",
+      "topic": "strings"
+    },
+    {
+      "id": "p977",
+      "topicId": "strings",
+      "name": "KMP Algorithm or LPS array",
+      "difficulty": "hard",
+      "order": 471,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "KMP Algorithm or LPS array",
+      "topic": "strings"
+    },
+    {
+      "id": "p980",
+      "topicId": "strings",
+      "name": "Shortest Palindrome",
+      "difficulty": "hard",
+      "order": 472,
+      "patterns": [
+        "Hashing",
+        "Two Pointer"
+      ],
+      "title": "Shortest Palindrome",
+      "topic": "strings"
+    },
+    {
+      "id": "p978",
+      "topicId": "strings",
+      "name": "Longest happy prefix",
+      "difficulty": "hard",
+      "order": 473,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "Longest happy prefix",
+      "topic": "strings"
+    },
+    {
+      "id": "p231",
+      "topicId": "strings",
+      "name": "Count Palindromic Subsequences",
+      "difficulty": "medium",
+      "order": 474,
+      "patterns": [
+        "Hashing"
+      ],
+      "title": "Count Palindromic Subsequences",
+      "topic": "strings"
+    }
+  ],
+  "predefinedPatterns": [
+    "Arrays",
+    "Binary Search",
+    "Bit Manipulation",
+    "DP",
+    "Fundamentals",
+    "Graph",
+    "Greedy",
+    "Hashing",
+    "Heap",
+    "Intervals",
+    "Linked List",
+    "Prefix Sum",
+    "Recursion",
+    "Sliding Window",
+    "Sorting",
+    "Stack & Queue",
+    "Tree",
+    "Trie",
+    "Two Pointer"
+  ]
+}

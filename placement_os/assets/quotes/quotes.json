@@ -1,0 +1,104 @@
+{
+  "quotes": [
+    {
+      "id": "q01",
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": "q02",
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": "q03",
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius"
+    },
+    {
+      "id": "q04",
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": "q05",
+      "text": "The future depends on what you do today.",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "id": "q06",
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson"
+    },
+    {
+      "id": "q07",
+      "text": "Opportunities don't happen. You create them.",
+      "author": "Chris Grosser"
+    },
+    {
+      "id": "q08",
+      "text": "Hard work beats talent when talent doesn't work hard.",
+      "author": "Tim Notke"
+    },
+    {
+      "id": "q09",
+      "text": "Dream big and dare to fail.",
+      "author": "Norman Vaughan"
+    },
+    {
+      "id": "q10",
+      "text": "Act as if what you do makes a difference. It does.",
+      "author": "William James"
+    },
+    {
+      "id": "q11",
+      "text": "What you get by achieving your goals is not as important as what you become.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "id": "q12",
+      "text": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe"
+    },
+    {
+      "id": "q13",
+      "text": "Discipline is the bridge between goals and accomplishment.",
+      "author": "Jim Rohn"
+    },
+    {
+      "id": "q14",
+      "text": "You don't have to be great to start, but you have to start to be great.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "id": "q15",
+      "text": "The expert in anything was once a beginner.",
+      "author": "Helen Hayes"
+    },
+    {
+      "id": "q16",
+      "text": "Consistency is more important than perfection.",
+      "author": "Unknown"
+    },
+    {
+      "id": "q17",
+      "text": "Every interview is practice for the next one.",
+      "author": "Lekhraj"
+    },
+    {
+      "id": "q18",
+      "text": "Revision is not optional — it is the whole game.",
+      "author": "Lekhraj"
+    },
+    {
+      "id": "q19",
+      "text": "One problem a day keeps imposter syndrome away.",
+      "author": "Lekhraj"
+    },
+    {
+      "id": "q20",
+      "text": "Your placement date is fixed. Your preparation starts now.",
+      "author": "Lekhraj"
+    }
+  ]
+}
