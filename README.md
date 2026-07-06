@@ -33,7 +33,7 @@
 
 ---
 
-## Why Placement OS?
+## Why LEKHRAJ ?
 
 Most DSA sheets are static checklists — you tick a problem and move on. **Placement OS** (app name: **Lekhraj**) is built for what happens *after* you solve:
 
