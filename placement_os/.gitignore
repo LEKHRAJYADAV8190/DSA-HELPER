@@ -3,43 +3,97 @@
 *.log
 *.pyc
 *.swp
+*.swo
+*~
 .DS_Store
+Thumbs.db
+Desktop.ini
 .atom/
 .buildlog/
 .history
 .svn/
 migrate_working_dir/
 
+# IDE / editor
 *.iml
 *.ipr
 *.iws
 .idea/
+.vscode/
+*.code-workspace
+.cursor/
 
+# Flutter / Dart
 .dart_tool/
 .flutter-plugins
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
 /build/
-
 **/doc/api/
 **/ios/Flutter/.last_build_id
 .app.dill
 .app.dill.snapshot
+coverage/
+lcov.info
 
+# Code generation (not used today; safe for future)
 *.g.dart
 *.freezed.dart
+*.mocks.dart
 
+# Android
 android/local.properties
 android/.gradle/
 android/captures/
-android/gradlew
-android/gradlew.bat
 android/key.properties
 **/*.keystore
+**/*.jks
+**/google-services.json
+**/GoogleService-Info.plist
 
-*.jks
+# iOS / macOS (if generated)
+**/ios/Pods/
+**/ios/.symlinks/
+**/macos/Flutter/ephemeral/
 
-# Firebase - uncomment if you don't want to commit config
-# android/app/google-services.json
+# Build outputs
+*.apk
+*.aab
+*.ipa
+*.app
+*.dmg
+*.exe
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.p12
+
+# OS & tooling
+.tools/
+*.stackdump
+
+# Firebase (optional — uncomment if added later)
 # lib/firebase_options.dart
+
+# Temporary / backup files
+*.bak
+*.tmp
+*_backup.json
+lekhraj_backup.json
+
+# Python (tool/)
+tool/__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Docs build artifacts (keep source markdown)
+docs/_site/
+
+# Sandbox / CI caches
+.cursor-sandbox-cache/
