@@ -25,11 +25,11 @@
 
 | Home & daily tasks | DSA Sheet | Revision |
 | :--: | :--: | :--: |
-| ![Home screen — daily tasks, streak, and progress](placement_os/docs/assets/screenshots/home.jpeg) | ![DSA Sheet — topics, filters, solved status](docs/assets/screenshots/dsa_sheet.jpeg) | ![Revision — sequential revision queue](docs/assets/screenshots/revision.jpeg) |
+| ![Home screen — daily tasks, streak, and progress](placement_os/docs/assets/screenshots/home.jpeg) | ![DSA Sheet — topics, filters, solved status](placement_os/docs/assets/screenshots/dsa_sheet.jpeg) | ![Revision — sequential revision queue](placement_os/docs/assets/screenshots/revision.jpeg) |
 
 | Notes | Patterns | Dry Run |
 | :--: | :--: | :--: |
-| ![Notes — problem notes and Yaad Rakhna](docs/assets/screenshots/notes.jpeg) | ![Patterns — pattern-wise progress](docs/assets/screenshots/patterns.jpeg) | ![Dry Run — finger-draw whiteboard](docs/assets/screenshots/dry_run.jpeg) |
+| ![Notes — problem notes and Yaad Rakhna](placement_os/docs/assets/screenshots/notes.jpeg) | ![Patterns — pattern-wise progress](placement_os/docs/assets/screenshots/patterns.jpeg) | ![Dry Run — finger-draw whiteboard](placement_os/docs/assets/screenshots/dry_run.jpeg) |
 
 ---
 
